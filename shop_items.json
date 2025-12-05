@@ -1,0 +1,40 @@
+[
+    {
+        "id": "upgrade_task_slot",
+        "name": "Contract Slot Upgrade",
+        "type": "upgrade",
+        "cost_caps": 0,
+        "description": "Unlock an additional contract slot."
+    },
+    {
+        "id": "upgrade_task_pool",
+        "name": "Contract Board Expansion",
+        "type": "upgrade",
+        "cost_caps": 0,
+        "description": "Increases the number of available contracts on the board."
+    },
+    {
+        "id": "meta_flare",
+        "name": "SoS Flare",
+        "type": "meta",
+        "cost_scrip": 3,
+        "inventory_key": "sos_flare",
+        "description": "Allows emergency extraction anywhere after 25 minutes."
+    },
+    {
+        "id": "meta_reroll",
+        "name": "Contract Reroller",
+        "type": "meta",
+        "cost_scrip": 2,
+        "inventory_key": "task_reroll",
+        "description": "Reroll a specific active contract in town."
+    },
+    {
+        "id": "meta_lunchbox",
+        "name": "Lunchbox",
+        "type": "meta",
+        "cost_scrip": 3,
+        "inventory_key": "lunchbox",
+        "description": "Contains a random buff for the next raid (XP, Caps, Loot, or Fortune)."
+    }
+]

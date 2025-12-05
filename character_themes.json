@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Junkyard Mechanic",
+    "description": "A grease-stained engineer who trusts improvised explosives and jury-rigged tech more than people. If it can't be fixed with a wrench or a shotgun, it's not worth fixing.",
+    "stats": { "Strength": 6, "Perception": 6, "Endurance": 7, "Charisma": 2, "Intelligence": 8, "Agility": 5, "Luck": 6 },
+    "skills": ["Repair", "Explosives", "Science"],
+    "level_up": "Hoard components to keep your gear serviceable. Use mines to cover your extraction retreat. Don't engage in fair fights; blow them up before they see you.",
+    "specialty": "junkyard_mechanic"
+  },
+  {
+    "name": "Corporate Liquidator",
+    "description": "An ex-corporate hitman who treats the wasteland like a hostile boardroom. Professional, detached, and prefers to solve problems from two post codes away.",
+    "stats": { "Strength": 4, "Perception": 9, "Endurance": 4, "Charisma": 3, "Intelligence": 6, "Agility": 8, "Luck": 6 },
+    "skills": ["Small Guns", "Sneak", "Lockpick"],
+    "level_up": "Your armor is paper-thin; do not get hit. Invest heavily in Sneak to ensure you always shoot first. If you break stealth, relocate or extract immediately.",
+    "specialty": "corporate_liquidator"
+  },
+  {
+    "name": "Grognak Larper",
+    "description": "Whether due to radiation madness or just too many comic books, you believe you are Grognak the Barbarian reincarnate. Bullets are for cowards.",
+    "stats": { "Strength": 10, "Perception": 3, "Endurance": 10, "Charisma": 1, "Intelligence": 3, "Agility": 6, "Luck": 7 },
+    "skills": ["Melee Weapons", "Unarmed", "Barter"],
+    "level_up": "CHARGE. You have max health and strength; use corners to force enemies into melee range. Hoard meats and meds, as you will be taking damage constantly.",
+    "specialty": "grognak_larper"
+  },
+  {
+    "name": "The Glow-Worm",
+    "description": "You've spent too long near the reactor. You glow in the dark, you cough up blood, and you love the smell of ozone. Radiation is just spicy air to you.",
+    "stats": { "Strength": 5, "Perception": 7, "Endurance": 8, "Charisma": 2, "Intelligence": 7, "Agility": 5, "Luck": 6 },
+    "skills": ["Energy Weapons", "Medicine", "Science"],
+    "level_up": "Energy weapons are rare and ammo is scarce; scavenge tech locations specifically. Use your high endurance to take shortcuts through irradiated zones others avoid.",
+    "specialty": "glow_worm"
+  },
+  {
+    "name": "Smooth-Talker",
+    "description": "You can't shoot straight, but you can talk a raider out of their power armor. You aim to get rich in town so you can hire better guns to do the fighting for you.",
+    "stats": { "Strength": 3, "Perception": 5, "Endurance": 4, "Charisma": 10, "Intelligence": 6, "Agility": 4, "Luck": 8 },
+    "skills": ["Barter", "Speech", "Small Guns"],
+    "level_up": "Avoid combat at all costs. Loot high-value-to-weight items. Use your wealth to buy Lunchboxes and Flares to survive raids you have no business being in.",
+    "specialty": "smooth_talker"
+  },
+  {
+    "name": "Chem-Head",
+    "description": "Reality is boring. Combat is better in slow motion. You live for the high, and you fight like a demon when the Jet kicks in. The withdrawal is the only thing you fear.",
+    "stats": { "Strength": 6, "Perception": 4, "Endurance": 8, "Charisma": 3, "Intelligence": 4, "Agility": 9, "Luck": 6 },
+    "skills": ["Medicine", "Melee Weapons", "Small Guns"],
+    "level_up": "Pop chems BEFORE the fight, not during. Your stats are mediocre until you dope up, then you are a god. Hoard Addictol or pay doctors frequently.",
+    "specialty": "chem_head"
+  },
+  {
+    "name": "Vault Patriot",
+    "description": "You remember the guidance of the Overseer. You keep your jumpsuit clean, your pistol oiled, and your moral compass rigid. The wasteland is messy; you are here to organize it.",
+    "stats": { "Strength": 5, "Perception": 6, "Endurance": 5, "Charisma": 6, "Intelligence": 6, "Agility": 6, "Luck": 6 },
+    "skills": ["Small Guns", "Science", "Speech"],
+    "level_up": "The ultimate balanced build. Adapt to the loot you find. Use Science to hack terminals for easy loot and Speech to navigate quests.",
+    "specialty": "vault_patriot"
+  },
+  {
+    "name": "Heavy Trooper",
+    "description": "Subtlety is for people without miniguns. You are a walking tank designed to lay down suppressing fire and soak up damage.",
+    "stats": { "Strength": 8, "Perception": 5, "Endurance": 8, "Charisma": 3, "Intelligence": 4, "Agility": 4, "Luck": 8 },
+    "skills": ["Big Guns", "Repair", "Medicine"],
+    "level_up": "Ammo is your lifeblood. Prioritize scavenging raids to keep your heavy weapons fed. Stand your ground and let the armor do its job.",
+    "specialty": "heavy_trooper"
+  },
+  {
+    "name": "Railway Rifleman",
+    "description": "A lover of steam and steel. You prefer weapons that pin enemies to walls and armor made from locomotive scrap.",
+    "stats": { "Strength": 6, "Perception": 7, "Endurance": 6, "Charisma": 3, "Intelligence": 6, "Agility": 6, "Luck": 6 },
+    "skills": ["Small Guns", "Repair", "Lockpick"],
+    "level_up": "Recover your railway spikes whenever possible. Focus on limb damage to cripple targets before finishing them off.",
+    "specialty": "railway_rifleman"
+  },
+  {
+    "name": "The Pyromaniac",
+    "description": "Some people want to set the world on fire. You just want to set the person standing in front of you on fire.",
+    "stats": { "Strength": 6, "Perception": 5, "Endurance": 7, "Charisma": 2, "Intelligence": 6, "Agility": 6, "Luck": 8 },
+    "skills": ["Big Guns", "Explosives", "Melee Weapons"],
+    "level_up": "Close the distance and burn them out. Fire weapons consume fuel quickly, so carry a backup melee weapon for when the tank runs dry.",
+    "specialty": "pyromaniac"
+  },
+  {
+    "name": "The Pugilist",
+    "description": "An underground pit fighter looking for the next bout. You rely on brass knuckles, technique, and a very high pain threshold.",
+    "stats": { "Strength": 8, "Perception": 4, "Endurance": 9, "Charisma": 2, "Intelligence": 3, "Agility": 7, "Luck": 7 },
+    "skills": ["Unarmed", "Sneak", "Medicine"],
+    "level_up": "Weave in and out of combat. Use VATS to land critical strikes in melee. You save a fortune on ammo, so spend those caps on armor.",
+    "specialty": "pugilist"
+  },
+  {
+    "name": "The Ninja",
+    "description": "A silent assassin influenced by pre-war holotapes. You strike from the shadows with blades and vanish before the body hits the floor.",
+    "stats": { "Strength": 5, "Perception": 6, "Endurance": 4, "Charisma": 2, "Intelligence": 5, "Agility": 10, "Luck": 8 },
+    "skills": ["Melee Weapons", "Sneak", "Lockpick"],
+    "level_up": "Critical hits are mandatory. If you aren't sneaking, you're dying. Pick your targets carefully and never fight a group in the open.",
+    "specialty": "ninja"
+  },
+  {
+    "name": "The Demolitionist",
+    "description": "If it clicks, beeps, or ticks, you know how to make it explode. You control the battlefield with mines and grenades.",
+    "stats": { "Strength": 5, "Perception": 7, "Endurance": 6, "Charisma": 3, "Intelligence": 7, "Agility": 5, "Luck": 7 },
+    "skills": ["Explosives", "Repair", "Sneak"],
+    "level_up": "Lure enemies into kill zones. Plant mines at choke points before starting a fight. Don't blow yourself up.",
+    "specialty": "demolitionist"
+  },
+  {
+    "name": "The Field Medic",
+    "description": "A former combat medic who knows that the best way to prevent casualties is to eliminate the source of the injury.",
+    "stats": { "Strength": 5, "Perception": 6, "Endurance": 6, "Charisma": 5, "Intelligence": 8, "Agility": 5, "Luck": 5 },
+    "skills": ["Medicine", "Small Guns", "Science"],
+    "level_up": "Your high intelligence helps you level faster. Keep your health topped off and use Science to access supply caches others miss.",
+    "specialty": "field_medic"
+  },
+  {
+    "name": "The Cowboy",
+    "description": "A rugged individualist inspired by western holotapes. Revolvers, lever-action rifles, and a hat are non-negotiable.",
+    "stats": { "Strength": 5, "Perception": 6, "Endurance": 6, "Charisma": 4, "Intelligence": 5, "Agility": 7, "Luck": 7 },
+    "skills": ["Small Guns", "Explosives", "Repair"],
+    "level_up": "Focus on high-damage, slow-firing weapons. Use dynamite (explosives) to flush enemies out of cover.",
+    "specialty": "cowboy"
+  },
+  {
+    "name": "Energy Commando",
+    "description": "A tech-savvy trooper who salvaged high-end energy weapons. Precision and power over spray-and-pray.",
+    "stats": { "Strength": 5, "Perception": 7, "Endurance": 5, "Charisma": 3, "Intelligence": 7, "Agility": 7, "Luck": 6 },
+    "skills": ["Energy Weapons", "Science", "Repair"],
+    "level_up": "Energy ammo is heavy and rare. Make every shot count. Use Science to recycle energy cells if possible.",
+    "specialty": "energy_commando"
+  },
+  {
+    "name": "Scavenger King",
+    "description": "You can smell a bottle cap from a mile away. You aren't the strongest or the smartest, but you always come home with the loot.",
+    "stats": { "Strength": 6, "Perception": 8, "Endurance": 6, "Charisma": 4, "Intelligence": 6, "Agility": 5, "Luck": 5 },
+    "skills": ["Lockpick", "Repair", "Barter"],
+    "level_up": "Unlock everything. Carry as much as you can. Avoid combat to preserve the condition of your loot.",
+    "specialty": "scavenger_king"
+  },
+  {
+    "name": "Paranoid Prepper",
+    "description": "They said you were crazy for hoarding canned beans and shotgun shells. Who's crazy now?",
+    "stats": { "Strength": 6, "Perception": 7, "Endurance": 6, "Charisma": 2, "Intelligence": 5, "Agility": 6, "Luck": 8 },
+    "skills": ["Small Guns", "Repair", "Explosives"],
+    "level_up": "You are self-sufficient. Maintain your gear aggressively and keep a stockpile of food and water for long raids.",
+    "specialty": "paranoid_prepper"
+  },
+  {
+    "name": "Smoothskin Ghoul",
+    "description": "You aren't actually a ghoul, but you've lived in the metro tunnels so long you might as well be. Darkness is your friend.",
+    "stats": { "Strength": 5, "Perception": 8, "Endurance": 7, "Charisma": 2, "Intelligence": 5, "Agility": 7, "Luck": 6 },
+    "skills": ["Sneak", "Small Guns", "Lockpick"],
+    "level_up": "Stick to the shadows and tunnels. You thrive in low-light environments. Use stealth to bypass tough surface encounters.",
+    "specialty": "smoothskin_ghoul"
+  },
+  {
+    "name": "Tunnel Rat",
+    "description": "Small, fast, and vicious. You prefer fighting in the cramped corridors of the vaults and sewers.",
+    "stats": { "Strength": 5, "Perception": 7, "Endurance": 6, "Charisma": 3, "Intelligence": 5, "Agility": 9, "Luck": 5 },
+    "skills": ["Melee Weapons", "Small Guns", "Sneak"],
+    "level_up": "Use close-quarters weapons like knives and SMGs. Speed is your armor.",
+    "specialty": "tunnel_rat"
+  },
+  {
+    "name": "Nuka-Cola Fanatic",
+    "description": "You are obsessed with the sugary nectar of the pre-war world. You are jittery, fast, and possibly diabetic.",
+    "stats": { "Strength": 4, "Perception": 6, "Endurance": 5, "Charisma": 4, "Intelligence": 6, "Agility": 8, "Luck": 7 },
+    "skills": ["Explosives", "Science", "Energy Weapons"],
+    "level_up": "Collect Nuka-Grenades and Quantum. Your playstyle is erratic and energetic. Sprint from cover to cover.",
+    "specialty": "nuka_fanatic"
+  },
+  {
+    "name": "Baseball Fury",
+    "description": "You wear the uniform of a dead sport and enforce the rules with a heavy bat. Strike three, you're out.",
+    "stats": { "Strength": 8, "Perception": 4, "Endurance": 8, "Charisma": 3, "Intelligence": 3, "Agility": 7, "Luck": 7 },
+    "skills": ["Melee Weapons", "Explosives", "Medicine"],
+    "level_up": "Close the gap with grenades, then finish them with the bat. Athletics and speed are key.",
+    "specialty": "baseball_fury"
+  },
+  {
+    "name": "Alien Conspiracy Theorist",
+    "description": "The truth is out there. You wield technology you barely understand to fight enemies you can barely see.",
+    "stats": { "Strength": 3, "Perception": 8, "Endurance": 4, "Charisma": 3, "Intelligence": 9, "Agility": 5, "Luck": 8 },
+    "skills": ["Energy Weapons", "Science", "Repair"],
+    "level_up": "Seek out alien crash sites and high-tech loot. Your weapon breaks often, so keep Repair high.",
+    "specialty": "alien_theorist"
+  },
+  {
+    "name": "Drunk Caravan Guard",
+    "description": "A half-sober escort who can't quite remember which crate was important but never forgets who shot at it. Warning: Starts with addictions.",
+    "stats": { "Strength": 7, "Perception": 3, "Endurance": 7, "Charisma": 6, "Intelligence": 3, "Agility": 5, "Luck": 9 },
+    "skills": ["Small Guns", "Melee Weapons", "Barter"],
+    "level_up": "Manage your withdrawal symptoms. You are tough but inaccurate. Rely on volume of fire and brute force.",
+    "specialty": "drunk_guard"
+  },
+  {
+    "name": "Clueless Tourist",
+    "description": "A pre-war enthusiast who thought a sightseeing tour of the wasteland was a good idea. Somehow still alive despite having no combat training.",
+    "stats": { "Strength": 3, "Perception": 4, "Endurance": 4, "Charisma": 8, "Intelligence": 4, "Agility": 6, "Luck": 10 },
+    "skills": ["Speech", "Barter", "Lockpick"],
+    "level_up": "Run away. Your combat stats are terrible. Rely on finding loot and avoiding enemies entirely. Good luck.",
+    "specialty": "clueless_tourist"
+  },
+  {
+    "name": "Pacifist Doomsayer",
+    "description": "Insists the world is ending any minute now and would really prefer not to shoot anyone about it. Refuses to specialize in weapons.",
+    "stats": { "Strength": 4, "Perception": 6, "Endurance": 5, "Charisma": 9, "Intelligence": 8, "Agility": 4, "Luck": 4 },
+    "skills": ["Speech", "Medicine", "Science"],
+    "level_up": "You are a non-combatant in a war zone. Use companions (if available) or stealth. Healing items are your only defense.",
+    "specialty": "pacifist_doomsayer"
+  },
+  {
+    "name": "RobCo Hacker",
+    "description": "You prefer screens to faces. Why fight when you can reprogram a turret to do it for you?",
+    "stats": { "Strength": 3, "Perception": 6, "Endurance": 4, "Charisma": 3, "Intelligence": 10, "Agility": 6, "Luck": 8 },
+    "skills": ["Science", "Lockpick", "Energy Weapons"],
+    "level_up": "Hack everything. Disable robot enemies instantly. Use Energy Weapons as a backup for biological threats.",
+    "specialty": "robco_hacker"
+  },
+  {
+    "name": "The Grim Reaper",
+    "description": "Death follows you. You rely on supernatural luck and critical hits to decimate foes before they can react.",
+    "stats": { "Strength": 4, "Perception": 6, "Endurance": 4, "Charisma": 2, "Intelligence": 5, "Agility": 9, "Luck": 10 },
+    "skills": ["Small Guns", "Sneak", "Melee Weapons"],
+    "level_up": "VATS is your best friend. Maximize critical hit chance. You are fragile, so ensure your first hit kills.",
+    "specialty": "grim_reaper"
+  },
+  {
+    "name": "Cannibal Chef",
+    "description": "Meat is meat, right? You have a refined palate and a terrifying proficiency with knives.",
+    "stats": { "Strength": 7, "Perception": 5, "Endurance": 8, "Charisma": 2, "Intelligence": 4, "Agility": 6, "Luck": 8 },
+    "skills": ["Melee Weapons", "Sneak", "Medicine"],
+    "level_up": "Your enemies are also your lunch. This saves on stimpaks but makes you unpopular. Get close and carve.",
+    "specialty": "cannibal_chef"
+  },
+  {
+    "name": "Vault Reject",
+    "description": "You didn't leave the Vault; you were kicked out. You have no supplies, no training, and everyone hates you.",
+    "stats": { "Strength": 4, "Perception": 4, "Endurance": 4, "Charisma": 4, "Intelligence": 4, "Agility": 4, "Luck": 4 },
+    "skills": ["Unarmed", "Barter", "Speech"],
+    "level_up": "This is Hard Mode. You start with nothing. Scavenge what you can and pray.",
+    "specialty": "vault_reject"
+  }
+]

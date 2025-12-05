@@ -1,0 +1,192 @@
+{
+    "scrapjack": {
+        "name": "Scrapjack",
+        "archetype": "Scavenger",
+        "descriptor": "Drunk",
+        "base_buff_type": "loot",
+        "personality": "A booze-soaked scavver who stumbles through danger but always finds the good stuff. Luck in a bottle.",
+        "flavor_recruit": "Listen buddy... *hic*... I know where the good stuff is. Just need a ride.",
+        "flavor_loyal": "You and me, boss. We're the kings of this trash heap. Let's find something shiny.",
+        "task_tags": ["scavenge", "salvage", "supply_run", "bonus_objective"],
+        "raid_tags": ["raid_fortunes_bounty", "raid_wasteland_in_need", "raid_somber_beauty"],
+        "quest_recruit": {
+            "title": "Bottle in a Haystack",
+            "flavor_text": "[PLACEHOLDER] I need you to find my lucky bottle opener. It's out there somewhere."
+        },
+        "quest_loyalty": {
+            "title": "The Big Score",
+            "flavor_text": "[PLACEHOLDER] I caught wind of the motherlode. We need to hit it before anyone else does."
+        }
+    },
+    "iron_marrow": {
+        "name": "Marrow",
+        "archetype": "Soldier",
+        "descriptor": "Hardened",
+        "base_buff_type": "damage",
+        "personality": "Unshakably calm and scarred by war. A living weapon who survives by instinct and discipline.",
+        "flavor_recruit": "War never changes, but the company does. I'm looking for a CO who knows what they're doing.",
+        "flavor_loyal": "I've served under many flags. Yours is the only one worth fighting for.",
+        "task_tags": ["combat", "elimination", "hostile_presence", "sweep", "high_risk"],
+        "raid_tags": ["raid_hostile", "raid_darkness_falls", "raid_weeping_skies"],
+        "quest_recruit": {
+            "title": "Standard Protocol",
+            "flavor_text": "[PLACEHOLDER] I need to verify your tactical capabilities before I sign on."
+        },
+        "quest_loyalty": {
+            "title": "Old Wounds",
+            "flavor_text": "[PLACEHOLDER] There is a loose end from my past service. We are going to cut it."
+        }
+    },
+    "roadie": {
+        "name": "Rhode",
+        "archetype": "Traveler",
+        "descriptor": "Lonely",
+        "base_buff_type": "carry_weight",
+        "personality": "A quiet nomad who avoids staying still because that’s when the wasteland catches up. Loyal once trusted.",
+        "flavor_recruit": "Road's long. Goes faster with company. You headed out?",
+        "flavor_loyal": "Used to run from everything. Now I'm just running with you. Feels different.",
+        "task_tags": ["supply_run", "extended", "area_control", "stacked"],
+        "raid_tags": ["raid_lonely_roads", "raid_somber_beauty", "raid_wasteland_in_need"],
+        "quest_recruit": {
+            "title": "The Long Haul",
+            "flavor_text": "[PLACEHOLDER] I've got a stash I couldn't carry. Help me retrieve it?"
+        },
+        "quest_loyalty": {
+            "title": "End of the Road",
+            "flavor_text": "[PLACEHOLDER] I'm tired of running. Let's clear the path ahead so I can finally stop."
+        }
+    },
+    "foxglove": {
+        "name": "Sindra",
+        "archetype": "Sneaky",
+        "descriptor": "Vixen",
+        "base_buff_type": "move_speed",
+        "personality": "Flirtatious, fast, and too clever for her own good. A thief who steals gear and hearts equally well.",
+        "flavor_recruit": "Well hello there. You look like you get into the fun kind of trouble.",
+        "flavor_loyal": "I usually leave before things get serious. Guess you're special, darling.",
+        "task_tags": ["covert", "sabotage", "setup", "short"],
+        "raid_tags": ["raid_weeping_skies", "raid_watching_eyes", "raid_darkness_falls"],
+        "quest_recruit": {
+            "title": "Five Finger Discount",
+            "flavor_text": "[PLACEHOLDER] There's a shiny bauble in a dangerous place. I want it. You're going to help."
+        },
+        "quest_loyalty": {
+            "title": "Stealing Hearts",
+            "flavor_text": "[PLACEHOLDER] Someone has something of mine. I'd very much like it back, violently."
+        }
+    },
+    "boulder": {
+        "name": "Boulder",
+        "archetype": "Primal",
+        "descriptor": "Resilient",
+        "base_buff_type": "defense",
+        "personality": "A massive protector who lets fists do the talking. Endurance forged by the wild, not war.",
+        "flavor_recruit": "Hmph. You look small. Need someone big?",
+        "flavor_loyal": "You stand behind Boulder. Boulder keeps you safe.",
+        "task_tags": ["hostile_presence", "area_control", "sweep", "high_risk"],
+        "raid_tags": ["raid_hostile", "raid_darkness_falls", "raid_spicy_sieverts"],
+        "quest_recruit": {
+            "title": "Heavy Lifting",
+            "flavor_text": "[PLACEHOLDER] Strong things survive. Show Boulder you are strong."
+        },
+        "quest_loyalty": {
+            "title": "Unmovable Object",
+            "flavor_text": "[PLACEHOLDER] Something is coming. We do not run. We break it."
+        }
+    },
+    "chomp": {
+        "name": "Chomp",
+        "archetype": "Glutton",
+        "descriptor": "Hardy",
+        "base_buff_type": "hp",
+        "personality": "Hungry for life and literal food. Laughs in danger’s face and snacks during reloads.",
+        "flavor_recruit": "You gonna eat that? No? Cool, I'm starving. Let's go find more food.",
+        "flavor_loyal": "Best meals of my life lately. I got your back, boss. Just don't forget lunch.",
+        "task_tags": ["standard", "extended", "salvage", "bonus_objective"],
+        "raid_tags": ["raid_spicy_sieverts", "raid_hostile", "raid_wasteland_in_need"],
+        "quest_recruit": {
+            "title": "Grocery Run",
+            "flavor_text": "[PLACEHOLDER] I know a place with preserved snacks. Let's go before it expires."
+        },
+        "quest_loyalty": {
+            "title": "The Last Supper",
+            "flavor_text": "[PLACEHOLDER] There's a beast out there. I bet it tastes delicious. Let's hunt."
+        }
+    },
+    "spark": {
+        "name": "Trigger",
+        "archetype": "Addict",
+        "descriptor": "Hyper",
+        "base_buff_type": "ap",
+        "personality": "Constant motion. Constant adrenaline. Constant need for one more high to keep going.",
+        "flavor_recruit": "Go go go! Gotta move! Standing still is death! Take me with you!",
+        "flavor_loyal": "My heart's beating so fast it hurts! I love it! Let's do it again!",
+        "task_tags": ["short", "high_risk", "covert", "stacked"],
+        "raid_tags": ["raid_weeping_skies", "raid_watching_eyes", "raid_hostile"],
+        "quest_recruit": {
+            "title": "Need for Speed",
+            "flavor_text": "[PLACEHOLDER] I dropped my stash! We gotta get it back, fast! Now now now!"
+        },
+        "quest_loyalty": {
+            "title": "Crash and Burn",
+            "flavor_text": "[PLACEHOLDER] I need the biggest hit of my life. I know where to find it. It's gonna be crazy."
+        }
+    },
+    "dr_grey": {
+        "name": "Dr. Grey",
+        "archetype": "Scientist",
+        "descriptor": "Intelligent",
+        "base_buff_type": "xp",
+        "personality": "Clinical thinker fascinated by survival data. Keeps you alive mostly to observe your results.",
+        "flavor_recruit": "Fascinating specimen. I require field data. You will suffice as a test subject.",
+        "flavor_loyal": "Your survival probability has exceeded my models. I must continue to observe this anomaly.",
+        "task_tags": ["setup", "bonus_objective", "standard", "extended"],
+        "raid_tags": ["raid_somber_beauty", "raid_fortunes_bounty", "raid_wasteland_in_need"],
+        "quest_recruit": {
+            "title": "Field Test",
+            "flavor_text": "[PLACEHOLDER] I need to calibrate my instruments in a hostile environment. Escort me."
+        },
+        "quest_loyalty": {
+            "title": "The Hypothesis",
+            "flavor_text": "[PLACEHOLDER] My research is nearing a breakthrough. The final variable is in a high-security zone."
+        }
+    },
+    "ledger": {
+        "name": "Ledger",
+        "archetype": "Mercenary",
+        "descriptor": "Greedy",
+        "base_buff_type": "caps",
+        "personality": "Money talks. Everyone else dies quiet. Loyalty lasts as long as the payments do.",
+        "flavor_recruit": "My gun is for hire. My silence costs extra. Can you afford me?",
+        "flavor_loyal": "You pay well and the work is steady. Consider my contract... extended.",
+        "task_tags": ["elimination", "sweep", "high_risk"],
+        "raid_tags": ["raid_hostile", "raid_fortunes_bounty", "raid_watching_eyes"],
+        "quest_recruit": {
+            "title": "Down Payment",
+            "flavor_text": "[PLACEHOLDER] I've got a bounty I can't collect alone. Help me out, and we split the take."
+        },
+        "quest_loyalty": {
+            "title": "Hostile Takeover",
+            "flavor_text": "[PLACEHOLDER] A rival group is undercutting my profits. We're going to liquidate their assets."
+        }
+    },
+    "wrench": {
+        "name": "Wrench",
+        "archetype": "Contractor",
+        "descriptor": "Professional",
+        "base_buff_type": "scrip",
+        "personality": "All business, no favors. Efficiency and paperwork survived the apocalypse, and so did he.",
+        "flavor_recruit": "I need resources to rebuild. You need logistics. Let's make a deal.",
+        "flavor_loyal": "Inefficiency offends me. You, however, are surprisingly adequate. We operate well together.",
+        "task_tags": ["stacked", "standard", "supply_run"],
+        "raid_tags": ["raid_wasteland_in_need", "raid_fortunes_bounty", "raid_lonely_roads"],
+        "quest_recruit": {
+            "title": "Supply Chain",
+            "flavor_text": "[PLACEHOLDER] My supply lines are disrupted. Clear the route, and I'll manage your logistics."
+        },
+        "quest_loyalty": {
+            "title": "Renovation",
+            "flavor_text": "[PLACEHOLDER] I have a blueprint for something big. I need components from a secure facility."
+        }
+    }
+}

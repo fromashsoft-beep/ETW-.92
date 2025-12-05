@@ -1,0 +1,266 @@
+[
+    {
+        "id": "ammo_308_caliber_round",
+        "name": ".308 Caliber Round",
+        "code": "0006B53C",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_32_caliber_round",
+        "name": ".32 Caliber Round",
+        "code": "000207F7",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_44_round_magnum",
+        "name": ".44 Round Magnum",
+        "code": "0002937E",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_10mm_round",
+        "name": "10mm Round",
+        "code": "00004241",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_5_56mm_round",
+        "name": "5.56mm Round",
+        "code": "00078CC4",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_5_56mm_round_2",
+        "name": "5.56mm Round",
+        "code": "00004240",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_5mm_round",
+        "name": "5mm Round",
+        "code": "0006B53D",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_5mm_round_2",
+        "name": "5mm Round",
+        "code": "000615A8",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_alien_powercell",
+        "name": "Alien Powercell",
+        "code": "00029364",
+        "category": "ammo",
+        "rarity": "tier_4",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_bb_ammo",
+        "name": "BB - Ammo",
+        "code": "0002935B",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_bottlecap_mines",
+        "name": "Bottlecap Mines",
+        "code": "0000433A",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_dart",
+        "name": "Dart",
+        "code": "00047419",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_dart_2",
+        "name": "Dart",
+        "code": "0002936E",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_electron_charge_pack",
+        "name": "Electron Charge Pack",
+        "code": "000615AF",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_electron_charge_pack_2",
+        "name": "Electron Charge Pack",
+        "code": "0006B53E",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_energy_cell",
+        "name": "Energy Cell",
+        "code": "00020772",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_energy_cell_2",
+        "name": "Energy Cell",
+        "code": "00078CC2",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_flamer_fuel",
+        "name": "Flamer Fuel",
+        "code": "00029371",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_flamer_fuel_2",
+        "name": "Flamer Fuel",
+        "code": "00078CC1",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_frag_grenades",
+        "name": "Frag Grenades",
+        "code": "00004330",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_frag_mines",
+        "name": "Frag Mines",
+        "code": "0000433C",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_mesmetron_power_cell",
+        "name": "Mesmetron Power Cell",
+        "code": "0006A80D",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_microfusion_cell",
+        "name": "Microfusion Cell",
+        "code": "00078CC3",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_microfusion_cell_2",
+        "name": "Microfusion Cell",
+        "code": "00004485",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "energy"
+    },
+    {
+        "id": "ammo_mini_nuke",
+        "name": "Mini Nuke",
+        "code": "00020799",
+        "category": "ammo",
+        "rarity": "tier_4",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_missile",
+        "name": "Missile",
+        "code": "000B8791",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_missile_2",
+        "name": "Missile",
+        "code": "0005F706",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_missile_3",
+        "name": "Missile",
+        "code": "00078CC5",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_missiles_2",
+        "name": "Missiles",
+        "code": "00029383",
+        "category": "ammo",
+        "rarity": "tier_3",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_pulse_grenades",
+        "name": "Pulse Grenades",
+        "code": "00004331",
+        "category": "ammo",
+        "rarity": "tier_2",
+        "tag": "explosive"
+    },
+    {
+        "id": "ammo_railway_spikes",
+        "name": "Railway Spikes",
+        "code": "00029384",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_shotgun_shell",
+        "name": "Shotgun Shell",
+        "code": "00028EEA",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    },
+    {
+        "id": "ammo_shotgun_shell_2",
+        "name": "Shotgun Shell",
+        "code": "0004C5F9",
+        "category": "ammo",
+        "rarity": "tier_1",
+        "tag": "ballistic"
+    }
+]

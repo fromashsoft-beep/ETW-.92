@@ -1,0 +1,1042 @@
+[
+    {
+        "id": "junk_scrap_metal",
+        "name": "Scrap metal",
+        "code": "00031944",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_sensor_module",
+        "name": "Sensor module",
+        "code": "00022109",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "tech"
+    },
+    {
+        "id": "junk_fission_battery",
+        "name": "Fission battery",
+        "code": "00033BC6",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "tech"
+    },
+    {
+        "id": "junk_turpentine",
+        "name": "Turpentine",
+        "code": "00022105",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_abraxo_cleaner",
+        "name": "Abraxo cleaner",
+        "code": "00022106",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_pressure_cooker",
+        "name": "Pressure cooker",
+        "code": "00022113",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_pre_war_money",
+        "name": "Pre-War money",
+        "code": "00034067",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_cigarette_carton",
+        "name": "Cigarette Carton",
+        "code": "00000037",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_gold_bar",
+        "name": "Gold Bar",
+        "code": "00004336",
+        "category": "misc",
+        "rarity": "tier_4",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_teddy_bear",
+        "name": "Teddy bear",
+        "code": "0001F21F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_wonderglue",
+        "name": "Wonderglue",
+        "code": "0002210A",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_wrench",
+        "name": "Wrench",
+        "code": "0005B6D0",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "tool"
+    },
+    {
+        "id": "junk_hammer",
+        "name": "Hammer",
+        "code": "0005B637",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "tool"
+    },
+    {
+        "id": "junk_10_ball",
+        "name": "10-ball",
+        "code": "0002B41B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_13_ball",
+        "name": "13-ball",
+        "code": "0002B41D",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_2_ball",
+        "name": "2-ball",
+        "code": "0002B415",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_5_ball",
+        "name": "5-ball",
+        "code": "0002B417",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_8_ball",
+        "name": "8-ball",
+        "code": "0002B419",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_ashtray",
+        "name": "Ashtray",
+        "code": "00034057",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_baseball",
+        "name": "Baseball",
+        "code": "0002B40B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_baseball_glove",
+        "name": "Baseball glove",
+        "code": "0002B410",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_basketball",
+        "name": "Basketball",
+        "code": "0002B40E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_bent_tin_can",
+        "name": "Bent tin can",
+        "code": "0005B6CA",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_bobby_pin",
+        "name": "Bobby pin",
+        "code": "0000000A",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "utility"
+    },
+    {
+        "id": "junk_bonesaw",
+        "name": "Bonesaw",
+        "code": "000250A3",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_bottle_cap",
+        "name": "Bottle cap",
+        "code": "0000000F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_box_of_detergent",
+        "name": "Box of detergent",
+        "code": "0003406F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_brahmin_skull",
+        "name": "Brahmin skull",
+        "code": "0003405E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_brotherhood_of_steel_holotag",
+        "name": "Brotherhood of Steel holotag",
+        "code": "0001EDC5",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "quest"
+    },
+    {
+        "id": "junk_butter_knife_cafeteria",
+        "name": "Butter knife (cafeteria)",
+        "code": "0005B639",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_butter_knife_metal",
+        "name": "Butter knife (metal)",
+        "code": "0005B63A",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_camera",
+        "name": "Camera",
+        "code": "00034062",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "tech"
+    },
+    {
+        "id": "junk_carton_of_cigarettes",
+        "name": "Carton of cigarettes",
+        "code": "00034068",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_ceramic_dinner_plate",
+        "name": "Ceramic dinner plate",
+        "code": "000340A0",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_cherry_bomb",
+        "name": "Cherry bomb",
+        "code": "00022108",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_chessboard",
+        "name": "Chessboard",
+        "code": "0009A809",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_cigarette",
+        "name": "Cigarette",
+        "code": "0005B52C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_clipboard",
+        "name": "Clipboard",
+        "code": "00025238",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_coffee_mug",
+        "name": "Coffee mug",
+        "code": "0003406C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_coffee_pot",
+        "name": "Coffee pot",
+        "code": "00025421",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_conductor",
+        "name": "Conductor",
+        "code": "00022102",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "tech"
+    },
+    {
+        "id": "junk_crutch",
+        "name": "Crutch",
+        "code": "0001B01F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_cue_ball",
+        "name": "Cue ball",
+        "code": "0002B41F",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_cup",
+        "name": "Cup",
+        "code": "0003407B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_cutting_board",
+        "name": "Cutting board",
+        "code": "0003406E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_damaged_garden_gnome",
+        "name": "Damaged garden gnome",
+        "code": "0005B635",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_danielle_s_book",
+        "name": "Danielle's book",
+        "code": "000C9403",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "quest"
+    },
+    {
+        "id": "junk_deathclaw_hand",
+        "name": "Deathclaw hand",
+        "code": "0002210B",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "component"
+    },
+    {
+        "id": "junk_dinner_plate",
+        "name": "Dinner plate",
+        "code": "0005B59F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_dog_bowl",
+        "name": "Dog bowl",
+        "code": "00034070",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_drinking_glass",
+        "name": "Drinking glass",
+        "code": "0005B633",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_earnings_clipboard",
+        "name": "Earnings clipboard",
+        "code": "00025237",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_empty_nuka_cola_bottle",
+        "name": "Empty Nuka-Cola bottle",
+        "code": "00022103",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_empty_soda_bottle",
+        "name": "Empty soda bottle",
+        "code": "0009AA4E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_empty_syringe",
+        "name": "Empty syringe",
+        "code": "000250A8",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_empty_whiskey_bottle",
+        "name": "Empty whiskey bottle",
+        "code": "0005B6CE",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_finance_clipboard",
+        "name": "Finance clipboard",
+        "code": "00025236",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_firehose_nozzle",
+        "name": "Firehose nozzle",
+        "code": "00022101",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_flour",
+        "name": "Flour",
+        "code": "00074EE1",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_forceps",
+        "name": "Forceps",
+        "code": "000250A7",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_fork",
+        "name": "Fork",
+        "code": "00034078",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_garden_gnome",
+        "name": "Garden gnome",
+        "code": "0003407A",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_glass_pitcher",
+        "name": "Glass pitcher",
+        "code": "0005B636",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_green_plate",
+        "name": "Green plate",
+        "code": "0005B63F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_harmonica",
+        "name": "Harmonica",
+        "code": "0005B638",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_hot_plate",
+        "name": "Hot plate",
+        "code": "0005516B",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "tech"
+    },
+    {
+        "id": "junk_intact_garden_gnome",
+        "name": "Intact garden gnome",
+        "code": "0005B634",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_iron",
+        "name": "Iron",
+        "code": "00034088",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_large_burned_book",
+        "name": "Large burned book",
+        "code": "000A9E6C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_large_destroyed_book",
+        "name": "Large destroyed book",
+        "code": "000A9E6F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_large_ruined_book",
+        "name": "Large ruined book",
+        "code": "000A9E6D",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_large_scorched_book",
+        "name": "Large scorched book",
+        "code": "000A9E6E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_large_whiskey_bottle",
+        "name": "Large whiskey bottle",
+        "code": "0005B6CD",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_lawn_mower_blade",
+        "name": "Lawn mower blade",
+        "code": "00025E03",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_leaf_blower",
+        "name": "Leaf blower",
+        "code": "00022100",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_leather_belt",
+        "name": "Leather belt",
+        "code": "0002210C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "component"
+    },
+    {
+        "id": "junk_lunchbox",
+        "name": "Lunchbox",
+        "code": "00022107",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_medical_brace",
+        "name": "Medical brace",
+        "code": "0002210D",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_medical_brace_new",
+        "name": "Medical brace (new)",
+        "code": "0003A73A",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_medical_clipboard",
+        "name": "Medical clipboard",
+        "code": "00025235",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_metal_cooking_pan",
+        "name": "Metal cooking pan",
+        "code": "0003409C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_metal_cooking_pot",
+        "name": "Metal cooking pot",
+        "code": "000340A7",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_metal_spoon",
+        "name": "Metal spoon",
+        "code": "000340BC",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_metro_ticket",
+        "name": "Metro ticket",
+        "code": "0002920F",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_milk_bottle",
+        "name": "Milk bottle",
+        "code": "0005B63B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_motorcycle_gas_tank",
+        "name": "Motorcycle gas tank",
+        "code": "000220FB",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_motorcycle_handbrake",
+        "name": "Motorcycle handbrake",
+        "code": "000220FE",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_mutilated_arm",
+        "name": "Mutilated arm",
+        "code": "0006EEE7",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_mutilated_leg",
+        "name": "Mutilated leg",
+        "code": "0006F2D8",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_mutilated_organs",
+        "name": "Mutilated organs",
+        "code": "0006F2D9",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_mutilated_skull",
+        "name": "Mutilated skull",
+        "code": "00074170",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_mutilated_torso",
+        "name": "Mutilated torso",
+        "code": "0006F2DA",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_nuka_cola_truck",
+        "name": "Nuka-Cola truck",
+        "code": "00029171",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_ophthalmascope",
+        "name": "Ophthalmascope",
+        "code": "0005F183",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_pack_of_cigarettes",
+        "name": "Pack of cigarettes",
+        "code": "00034069",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_paint_gun",
+        "name": "Paint gun",
+        "code": "0002210E",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_paperweight",
+        "name": "Paperweight",
+        "code": "0003409D",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_pencil",
+        "name": "Pencil",
+        "code": "0005B63C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_pilot_light",
+        "name": "Pilot light",
+        "code": "000220FC",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_plunger",
+        "name": "Plunger",
+        "code": "000340A4",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_pool_ball",
+        "name": "Pool ball",
+        "code": "0002B412",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_pot",
+        "name": "Pot",
+        "code": "0002541B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_pre_war_book_blue",
+        "name": "Pre-War book (blue)",
+        "code": "000943F2",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_radscorpion_poison_gland",
+        "name": "Radscorpion poison gland",
+        "code": "0002210F",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_rake",
+        "name": "Rake",
+        "code": "000340AD",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "tool"
+    },
+    {
+        "id": "junk_red_pass_card",
+        "name": "Red pass card",
+        "code": "00028704",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "quest"
+    },
+    {
+        "id": "junk_red_plate",
+        "name": "Red plate",
+        "code": "0005B63E",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_scalpel",
+        "name": "Scalpel",
+        "code": "000250A5",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_scissors",
+        "name": "Scissors",
+        "code": "000250A4",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_shot_glass",
+        "name": "Shot glass",
+        "code": "000340B5",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_small_burned_book",
+        "name": "Small burned book",
+        "code": "000A9E70",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_small_destroyed_book",
+        "name": "Small destroyed book",
+        "code": "000A9E6B",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_small_ruined_book",
+        "name": "Small ruined book",
+        "code": "000A9E69",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_small_scorched_book",
+        "name": "Small scorched book",
+        "code": "000A9E6A",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_spatula",
+        "name": "Spatula",
+        "code": "000340BB",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_spork",
+        "name": "Spork",
+        "code": "0005B641",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_steam_gauge_assembly",
+        "name": "Steam gauge assembly",
+        "code": "00022112",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_super_mutant_blood_sample_broken_steel",
+        "name": "Super mutant blood sample Broken Steel",
+        "code": "xx009F95",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "quest"
+    },
+    {
+        "id": "junk_surgical_tubing",
+        "name": "Surgical tubing",
+        "code": "00022111",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_tin_can",
+        "name": "Tin can",
+        "code": "00022104",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_tin_plate",
+        "name": "Tin plate",
+        "code": "0002541C",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_toaster_post_war",
+        "name": "Toaster (post-War)",
+        "code": "0009A807",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_toaster_pre_war",
+        "name": "Toaster (pre-War)",
+        "code": "0009A808",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "valuable"
+    },
+    {
+        "id": "junk_toy_car",
+        "name": "Toy car",
+        "code": "00022110",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_triangle",
+        "name": "Triangle",
+        "code": "0002C5F6",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "toy"
+    },
+    {
+        "id": "junk_tweezers",
+        "name": "Tweezers",
+        "code": "000250A6",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "medical"
+    },
+    {
+        "id": "junk_vacuum_cleaner",
+        "name": "Vacuum cleaner",
+        "code": "000220FF",
+        "category": "misc",
+        "rarity": "tier_2",
+        "tag": "component"
+    },
+    {
+        "id": "junk_whet_stone",
+        "name": "Whet stone",
+        "code": "0005B6CB",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "tool"
+    },
+    {
+        "id": "junk_white_plate",
+        "name": "White plate",
+        "code": "0005B63D",
+        "category": "misc",
+        "rarity": "tier_1",
+        "tag": "junk"
+    },
+    {
+        "id": "junk_wood_chipper",
+        "name": "Wood chipper",
+        "code": "0007CBCC",
+        "category": "misc",
+        "rarity": "tier_3",
+        "tag": "component"
+    }
+]

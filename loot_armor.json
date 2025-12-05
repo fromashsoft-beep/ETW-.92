@@ -1,0 +1,1154 @@
+[
+    {
+        "id": "armor_advanced_radiation_suit",
+        "name": "Advanced Radiation Suit",
+        "code": "0003307A",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_armored_vault_101_jumpsuit",
+        "name": "Armored Vault 101 Jumpsuit",
+        "code": "00034121",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_armored_vault_101_jumpsuit_2",
+        "name": "Armored Vault 101 Jumpsuit",
+        "code": "0006C587",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_army_power_armor",
+        "name": "Army Power Armor",
+        "code": "00061A72",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_athlete_of_the_wastes_outfit",
+        "name": "Athlete of the Wastes Outfit",
+        "code": "000340FB",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_ballcap_with_glasses",
+        "name": "Ballcap with Glasses",
+        "code": "00028FFA",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_bandana",
+        "name": "Bandana",
+        "code": "00073D57",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_biker_goggles",
+        "name": "Biker Goggles",
+        "code": "0009B188",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_birthskirt",
+        "name": "BirthSkirt",
+        "code": "0007CFF0",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_blast_off_helmet",
+        "name": "Blast Off Helmet",
+        "code": "0007494C",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_blast_off_pajamas",
+        "name": "Blast Off Pajamas",
+        "code": "0005B6EA",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_boogeyman_s_hood",
+        "name": "Boogeyman's Hood",
+        "code": "0008F775",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_brahmin_skin_outfit",
+        "name": "Brahmin-Skin Outfit",
+        "code": "00018DE5",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_brotherhood_of_steel_powered_armor",
+        "name": "Brotherhood of Steel Powered Armor",
+        "code": "00075203",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_brotherhood_of_steel_powered_helmet",
+        "name": "Brotherhood of Steel Powered Helmet",
+        "code": "00075201",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_brotherhood_power_armor",
+        "name": "Brotherhood Power Armor",
+        "code": "00075201",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_brotherhood_power_helmet",
+        "name": "Brotherhood Power Helmet",
+        "code": "00075203",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_brotherhood_scribe_robe",
+        "name": "Brotherhood Scribe Robe",
+        "code": "000854CF",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_button_s_wig",
+        "name": "Button's Wig",
+        "code": "0008A6DD",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_child_blastoff_helmet",
+        "name": "Child Blastoff Helmet",
+        "code": "0007C109",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_chinese_commando_hat",
+        "name": "Chinese Commando Hat",
+        "code": "00078646",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_chinese_jumpsuit",
+        "name": "Chinese Jumpsuit",
+        "code": "000340D2",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_colonel_autumn_s_uniform",
+        "name": "Colonel Autumn's Uniform",
+        "code": "0005157E",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_combat_armor",
+        "name": "Combat Armor",
+        "code": "00020420",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_combat_helmet",
+        "name": "Combat Helmet",
+        "code": "00020426",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_crow_s_eyebot_helmet",
+        "name": "Crow's Eyebot Helmet",
+        "code": "000B17A0",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_dad_s_wasteland_outfit",
+        "name": "Dad's Wasteland Outfit",
+        "code": "00079F09",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_chinese_jumpsuit",
+        "name": "Dirty Chinese Jumpsuit",
+        "code": "000340D3",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_chinese_jumpsuit_2",
+        "name": "Dirty Chinese Jumpsuit",
+        "code": "000CB603",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_businesswear",
+        "name": "Dirty Pre-War Businesswear",
+        "code": "0005C682",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_casualwear",
+        "name": "Dirty Pre-War Casualwear",
+        "code": "000340CF",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_kid_s_outfit",
+        "name": "Dirty Pre-War Kid's Outfit",
+        "code": "000340C4",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_parkstroller_outfit",
+        "name": "Dirty Pre-War Parkstroller Outfit",
+        "code": "0005BB70",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_relaxedwear",
+        "name": "Dirty Pre-War Relaxedwear",
+        "code": "0005BB6F",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_spring_outfit",
+        "name": "Dirty Pre-War Spring Outfit",
+        "code": "000340D1",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_dirty_pre_war_spring_outfit_2",
+        "name": "Dirty Pre-War Spring Outfit",
+        "code": "00066C71",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_doctor_li_s_glasses",
+        "name": "Doctor Li's Glasses",
+        "code": "0005C9A0",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_doctor_li_s_outfit",
+        "name": "Doctor Li's Outfit",
+        "code": "000340DA",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_elder_lyons_robe",
+        "name": "Elder Lyons' Robe",
+        "code": "00087274",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_enclave_officer_hat",
+        "name": "Enclave Officer Hat",
+        "code": "00078647",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_enclave_officer_uniform",
+        "name": "Enclave Officer Uniform",
+        "code": "000340DE",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_enclave_power_armor",
+        "name": "Enclave Power Armor",
+        "code": "00023B62",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_enclave_power_armor_2",
+        "name": "Enclave Power Armor",
+        "code": "0004443E",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_enclave_scientist_outfit",
+        "name": "Enclave Scientist Outfit",
+        "code": "0001B5BD",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_environment_suit",
+        "name": "Environment Suit",
+        "code": "000C09D4",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_eulogy_jones_hat",
+        "name": "Eulogy Jones' Hat",
+        "code": "00034126",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_eyebot_helmet",
+        "name": "Eyebot Helmet",
+        "code": "0004E6A0",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_eyeglasses",
+        "name": "Eyeglasses",
+        "code": "000340FD",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_ghoul_mask",
+        "name": "Ghoul Mask",
+        "code": "0001DC1C",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_glassesreadingchild",
+        "name": "GlassesReadingChild",
+        "code": "0005DC82",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_grimy_pre_war_businesswear",
+        "name": "Grimy Pre-War Businesswear",
+        "code": "000B1056",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_handyman_jumpsuit",
+        "name": "Handyman Jumpsuit",
+        "code": "000BF6FD",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_hat_of_the_people",
+        "name": "Hat of the People",
+        "code": "000CB604",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_head_wrap",
+        "name": "Head Wrap",
+        "code": "00074296",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_head_wrap_2",
+        "name": "Head Wrap",
+        "code": "00074334",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_head_wrap_3",
+        "name": "Head Wrap",
+        "code": "00074335",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_head_wrap_4",
+        "name": "Head Wrap",
+        "code": "00074336",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_hockey_mask",
+        "name": "Hockey Mask",
+        "code": "00033598",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_junior_officer_outfit",
+        "name": "Junior Officer Outfit",
+        "code": "000340F9",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_kid_s_ballcap_with_glasses",
+        "name": "Kid's Ballcap with Glasses",
+        "code": "0009B185",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_kid_s_baseball_cap",
+        "name": "Kid's Baseball Cap",
+        "code": "000340C1",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_kid_s_cave_rat_outfit",
+        "name": "Kid's Cave Rat Outfit",
+        "code": "000340E4",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_kid_s_murray_the_mole_hat",
+        "name": "Kid's Murray the Mole Hat",
+        "code": "00078643",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_kid_s_party_hat",
+        "name": "Kid's Party Hat",
+        "code": "00028FF8",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_kid_s_police_hat",
+        "name": "Kid's Police Hat",
+        "code": "000340E1",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_lab_technician_outfit",
+        "name": "Lab Technician Outfit",
+        "code": "000340D7",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_leather_armor",
+        "name": "Leather Armor",
+        "code": "00020423",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "light"
+    },
+    {
+        "id": "armor_leather_armor_2",
+        "name": "Leather Armor",
+        "code": "0002DC05",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "light"
+    },
+    {
+        "id": "armor_leather_armor_3",
+        "name": "Leather Armor",
+        "code": "00066C72",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "light"
+    },
+    {
+        "id": "armor_leather_armor_4",
+        "name": "Leather Armor",
+        "code": "00066C74",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "light"
+    },
+    {
+        "id": "armor_ledoux_s_hockey_mask",
+        "name": "Ledoux's Hockey Mask",
+        "code": "0007401C",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_lesko_s_lab_coat",
+        "name": "Lesko's Lab Coat",
+        "code": "000C24F9",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_lincoln_s_hat",
+        "name": "Lincoln's Hat",
+        "code": "0004445B",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_linden_s_outcast_power_armor",
+        "name": "Linden's Outcast Power Armor",
+        "code": "00070877",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_lucky_shades",
+        "name": "Lucky Shades",
+        "code": "000CB54B",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_lyons_pride_power_armor",
+        "name": "Lyons' Pride Power Armor",
+        "code": "00061A73",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_maccready_s_helmet",
+        "name": "MacCready's Helmet",
+        "code": "0002D11B",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_makeshift_gas_mask",
+        "name": "Makeshift Gas Mask",
+        "code": "000C111A",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_maple_s_garb",
+        "name": "Maple's Garb",
+        "code": "0005A6CA",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_mayor_maccready_s_outfit",
+        "name": "Mayor MacCready's Outfit",
+        "code": "000340E7",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_adventurer_outfit",
+        "name": "Merc Adventurer Outfit",
+        "code": "00034124",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_charmer_outfit",
+        "name": "Merc Charmer Outfit",
+        "code": "00034122",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_charmer_outfit_2",
+        "name": "Merc Charmer Outfit",
+        "code": "000CB606",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_cruiser_outfit",
+        "name": "Merc Cruiser Outfit",
+        "code": "000C5D34",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_cruiser_outfit_2",
+        "name": "Merc Cruiser Outfit",
+        "code": "000CB60B",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_grunt_outfit",
+        "name": "Merc Grunt Outfit",
+        "code": "000A3045",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_grunt_outfit_2",
+        "name": "Merc Grunt Outfit",
+        "code": "000CB60A",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_troublemaker_outfit",
+        "name": "Merc Troublemaker Outfit",
+        "code": "00034123",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_merc_veteran_outfit",
+        "name": "Merc Veteran Outfit",
+        "code": "0008C83C",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_metal_armor",
+        "name": "Metal Armor",
+        "code": "0003307F",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_metal_helmet",
+        "name": "Metal Helmet",
+        "code": "00033080",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_modified_utility_jumpsuit",
+        "name": "Modified Utility Jumpsuit",
+        "code": "0007C17C",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_motorcycle_helmet",
+        "name": "Motorcycle Helmet",
+        "code": "0009B186",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_mysterious_stranger_hat",
+        "name": "Mysterious Stranger Hat",
+        "code": "0006B467",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_mysterious_stranger_outfit",
+        "name": "Mysterious Stranger Outfit",
+        "code": "0006696D",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_naughty_nightwear",
+        "name": "Naughty Nightwear",
+        "code": "000C8E07",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_oasis_druid_hood",
+        "name": "Oasis Druid Hood",
+        "code": "0009B18A",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_oasis_exile_hood",
+        "name": "Oasis Exile Hood",
+        "code": "000C942D",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_oasis_robe",
+        "name": "Oasis Robe",
+        "code": "000340E8",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_oasis_villager_robe",
+        "name": "Oasis Villager Robe",
+        "code": "000340E9",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_outcast_power_armor",
+        "name": "Outcast Power Armor",
+        "code": "00060C70",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_outcast_power_helmet",
+        "name": "Outcast Power Helmet",
+        "code": "00060C72",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_outcast_recon_helmet",
+        "name": "Outcast Recon Helmet",
+        "code": "000645ED",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_party_hat",
+        "name": "Party Hat",
+        "code": "00050E44",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_party_hatstanley",
+        "name": "Party HatStanley",
+        "code": "000B75E2",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_pint_sized_slasher_mask",
+        "name": "Pint-Sized Slasher Mask",
+        "code": "000340FC",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_pip_boy_3000",
+        "name": "Pip-Boy 3000",
+        "code": "00015038",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pip_boy_3000_2",
+        "name": "Pip-Boy 3000",
+        "code": "000236D8",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pip_boy_glove",
+        "name": "Pip-Boy Glove",
+        "code": "00025B83",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_police_hat",
+        "name": "Police Hat",
+        "code": "000AB491",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_poplar_s_hood",
+        "name": "Poplar's Hood",
+        "code": "0005A6CB",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_power_armor",
+        "name": "Power Armor",
+        "code": "00014E13",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_power_armor_2",
+        "name": "Power Armor",
+        "code": "00025083",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_power_armor_3",
+        "name": "Power Armor",
+        "code": "00066C73",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_power_helmet",
+        "name": "Power Helmet",
+        "code": "00014C08",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_power_suit_armor",
+        "name": "Power-Suit Armor",
+        "code": "000CB60C",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_pre_war_baseball_cap",
+        "name": "Pre-War Baseball Cap",
+        "code": "00028FF9",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_pre_war_bonnet",
+        "name": "Pre-War Bonnet",
+        "code": "000340CD",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_pre_war_casualwear",
+        "name": "Pre-War Casualwear",
+        "code": "0001EA6D",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_casualwear_2",
+        "name": "Pre-War Casualwear",
+        "code": "000CB60D",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_hat",
+        "name": "Pre-War Hat",
+        "code": "000340C8",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_pre_war_kid_s_outfit",
+        "name": "Pre-War Kid's Outfit",
+        "code": "000340C3",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_outfit_and_watch",
+        "name": "Pre-War Outfit and Watch",
+        "code": "0008198C",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_outfit_and_watch_2",
+        "name": "Pre-War Outfit and Watch",
+        "code": "000ABBE2",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_parkstroller_outfit",
+        "name": "Pre-War Parkstroller Outfit",
+        "code": "0005BB66",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_parkstroller_outfit_2",
+        "name": "Pre-War Parkstroller Outfit",
+        "code": "000CB60F",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_relaxedwear",
+        "name": "Pre-War Relaxedwear",
+        "code": "0005BB63",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_pre_war_spring_outfit",
+        "name": "Pre-War Spring Outfit",
+        "code": "000340D0",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_prototype_medic_power_armor",
+        "name": "Prototype Medic Power Armor",
+        "code": "0007836E",
+        "category": "armor",
+        "rarity": "tier_4",
+        "tag": "power_armor"
+    },
+    {
+        "id": "armor_pyro_helmet",
+        "name": "Pyro Helmet",
+        "code": "000CB600",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_radiation_suit",
+        "name": "Radiation Suit",
+        "code": "00033078",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_ragamuffin_outfit",
+        "name": "Ragamuffin Outfit",
+        "code": "000340F8",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "clothing"
+    },
+    {
+        "id": "armor_ragamuffin_tophat",
+        "name": "Ragamuffin Tophat",
+        "code": "00074950",
+        "category": "armor",
+        "rarity": "tier_1",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_raider_arclight_helmet",
+        "name": "Raider Arclight Helmet",
+        "code": "00078644",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_raider_badlands_armor",
+        "name": "Raider Badlands Armor",
+        "code": "0003307D",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "light"
+    },
+    {
+        "id": "armor_raider_blastmaster_armor",
+        "name": "Raider Blastmaster Armor",
+        "code": "0003307E",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "heavy"
+    },
+    {
+        "id": "armor_raider_blastmaster_helmet",
+        "name": "Raider Blastmaster Helmet",
+        "code": "0005B6E8",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_raider_painspike_armor",
+        "name": "Raider Painspike Armor",
+        "code": "0002042F",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_raider_psycho_tic_helmet",
+        "name": "Raider Psycho-Tic Helmet",
+        "code": "00020432",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_raider_sadist_armor",
+        "name": "Raider Sadist Armor",
+        "code": "0003307C",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_raider_wastehound_helmet",
+        "name": "Raider Wastehound Helmet",
+        "code": "00078645",
+        "category": "armor",
+        "rarity": "tier_2",
+        "tag": "headgear"
+    },
+    {
+        "id": "armor_ranger_armor",
+        "name": "Ranger Armor",
+        "code": "00023030",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_ranger_battle_armor",
+        "name": "Ranger Battle Armor",
+        "code": "00023030",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "medium"
+    },
+    {
+        "id": "armor_ranger_battle_helmet",
+        "name": "Ranger Battle Helmet",
+        "code": "00034105",
+        "category": "armor",
+        "rarity": "tier_3",
+        "tag": "headgear"
+    }
+]

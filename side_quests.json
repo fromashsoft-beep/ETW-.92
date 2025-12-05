@@ -1,0 +1,38 @@
+[
+    {
+        "id": "shop_unlock",
+        "title": "Open for Business",
+        "flavor_text": "Rumor is the local shopkeeper never returned from a supply run, some insist he was rich and got the hell out of this hell hole, others claim to have last seen him near the Springvale School.",
+        "objectives": [
+            "Clear Springvale School"
+        ],
+        "completion_text": "Holy shit I thought I was dead! Thank you so much stranger, I'm forever in your debt. Stop by the shop anytime, I'll save the best loot just for you!",
+        "reward": {
+            "unlocks_feature": "shop"
+        }
+    },
+    {
+        "id": "bar_unlock",
+        "title": "Entry Denied",
+        "flavor_text": "Whoa now hold on there little buddy, what makes you think an outsider like yourself is welcome in there? Listen, you look well enough, but you just can't trust anyone around here! If I started letting every shithead in there it'd only be a matter of time before things went sour. Tell you what, prove you're trustworthy and I'll let you in",
+        "objectives": [
+            "Reach Reputation Level 1"
+        ],
+        "completion_text": "Well look at you trying to make this shithole a little more tolerable, alright buddy you can go in, but keep in mind I'm still watching you. Don't fuck up in here.",
+        "reward": {
+            "unlocks_feature": "bar"
+        }
+    },
+    {
+        "id": "hideout_unlock",
+        "title": "Preparing for the worst",
+        "flavor_text": "Looks like I'm gonna be stuck here for awhile, I'll need to find a place to call home. There's an old super market out there that has everything I'd need for a solid base of operations, I'll just need to persuade the current occupants to kindly leave the premises.",
+        "objectives": [
+            "Clear The Super Duper Mart"
+        ],
+        "completion_text": "I've successfully convinced the previous owners of this fine establishment to relinquish ownership, all that's left to do is mop up the blood and get to work.",
+        "reward": {
+            "unlocks_feature": "hideout"
+        }
+    }
+]

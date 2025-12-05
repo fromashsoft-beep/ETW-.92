@@ -1,0 +1,54 @@
+{
+    "difficulty_settings": {
+        "easy":   {"objectives": [1, 1], "quantity": [1, 4],  "color": "#00FF00"},
+        "medium": {"objectives": [2, 2], "quantity": [4, 6],  "color": "#FFFF00"},
+        "hard":   {"objectives": [3, 3], "quantity": [6, 10], "color": "#FF4500"}
+    },
+    "thresholds": {
+        "runthrough": 300,
+        "fast_raid": 900,
+        "med_raid": 1500,
+        "long_raid": 2700,
+        "radiation_time_limit": 900
+    },
+    "defaults": {
+        "fortune": 0.0
+    },
+    "rarity_tuning": {
+        "rep_rare_boost": 0.04, 
+        "rep_epic_boost": 0.03, 
+        "fortune_rare_boost": 0.08, 
+        "fortune_epic_boost": 0.10, 
+        "common_rep_reduction": 0.10, 
+        "common_fortune_reduction": 0.08
+    },
+    "item_quantity_tuning": {
+        "rep_factor_per_point": 0.10, 
+        "fortune_factor_per_point": 0.20 
+    },
+    "category_tuning": {
+        "task_tilt_rep": 0.015, 
+        "task_tilt_fortune": 0.03, 
+        "lootbox_tilt_rep": 0.02, 
+        "lootbox_tilt_fortune": 0.05
+    },
+    "task_loot_tuning": {
+        "easy":   {"base_item_chance": 0.45, "max_items": 2, "scrip_range": [1, 1]},
+        "medium": {"base_item_chance": 0.70, "max_items": 3, "scrip_range": [3, 3]},
+        "hard":   {"base_item_chance": 0.90, "max_items": 4, "scrip_range": [6, 6]}
+    },
+    "lootbox_tuning": {
+        "min_items": 2, 
+        "max_items": 5, 
+        "extra_roll_base_chance": 0.35, 
+        "extra_roll_fortune_bonus": 0.04, 
+        "caps_chance": 0.55
+    },
+    "raid_modifier_reroll_chance": 0.30,
+    "buff_types": {
+        "xp_boost": "XP Boost (+25%)",
+        "caps_boost": "Caps Boost (+25%)",
+        "loot_quantity": "Scavenger (+1 Max Loot)",
+        "fortune_boost": "Lucky (+2 Fortune)"
+    }
+}

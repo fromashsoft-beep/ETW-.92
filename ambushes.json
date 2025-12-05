@@ -1,0 +1,634 @@
+[
+  {
+    "id": "critters_radroach_swarm_01",
+    "label": "Radroach Swarm",
+    "faction": "creature",
+    "threat_tier": 1,
+    "spawn": [
+      {
+        "code": "000C595E",
+        "kind": "Radroach"
+      },
+      {
+        "code": "000C595E",
+        "kind": "Radroach"
+      },
+      {
+        "code": "000C595E",
+        "kind": "Radroach"
+      },
+      {
+        "code": "000C595E",
+        "kind": "Radroach"
+      },
+      {
+        "code": "000C595E",
+        "kind": "Radroach"
+      }
+    ]
+  },
+  {
+    "id": "critters_molerats_01",
+    "label": "Molerat Pack",
+    "faction": "creature",
+    "threat_tier": 2,
+    "spawn": [
+      {
+        "code": "000A3D15",
+        "kind": "Mole Rat"
+      },
+      {
+        "code": "000A3D15",
+        "kind": "Mole Rat"
+      },
+      {
+        "code": "0001CF9F",
+        "kind": "Mole Rat (variant)"
+      }
+    ]
+  },
+  {
+    "id": "critters_wild_dogs_01",
+    "label": "Wild Dogs",
+    "faction": "creature",
+    "threat_tier": 2,
+    "spawn": [
+      {
+        "code": "0001CF9C",
+        "kind": "Dog"
+      },
+      {
+        "code": "0001CF9C",
+        "kind": "Dog"
+      },
+      {
+        "code": "000381DF",
+        "kind": "Vicious Dog"
+      }
+    ]
+  },
+  {
+    "id": "creatures_scorpions_small_01",
+    "label": "Radscorpion Patrol",
+    "faction": "creature",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "0001CF9D",
+        "kind": "Radscorpion"
+      },
+      {
+        "code": "0001CF9D",
+        "kind": "Radscorpion"
+      },
+      {
+        "code": "0001CF9E",
+        "kind": "Giant Radscorpion"
+      }
+    ]
+  },
+  {
+    "id": "creatures_yao_guai_01",
+    "label": "Yao Guai Pair",
+    "faction": "creature",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "0001CFA0",
+        "kind": "Yao Guai"
+      },
+      {
+        "code": "000838B4",
+        "kind": "Yao Guai (variant)"
+      }
+    ]
+  },
+  {
+    "id": "creatures_deathclaw_scout_01",
+    "label": "Deathclaw Scout",
+    "faction": "creature",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "000AF836",
+        "kind": "Deathclaw"
+      }
+    ]
+  },
+  {
+    "id": "creatures_deathclaw_pack_01",
+    "label": "Deathclaw Hunting Pack",
+    "faction": "creature",
+    "threat_tier": 5,
+    "spawn": [
+      {
+        "code": "000AF836",
+        "kind": "Deathclaw"
+      },
+      {
+        "code": "000C290A",
+        "kind": "Deathclaw (variant)"
+      },
+      {
+        "code": "000C3280",
+        "kind": "Deathclaw (variant)"
+      }
+    ]
+  },
+  {
+    "id": "ghouls_feral_basic_01",
+    "label": "Feral Ghoul Pack",
+    "faction": "feral_ghoul",
+    "threat_tier": 2,
+    "spawn": [
+      {
+        "code": "0001CF7A",
+        "kind": "Feral Ghoul"
+      },
+      {
+        "code": "0001CF7A",
+        "kind": "Feral Ghoul"
+      },
+      {
+        "code": "0005C342",
+        "kind": "Feral Ghoul (variant)"
+      }
+    ]
+  },
+  {
+    "id": "ghouls_roamers_01",
+    "label": "Ghoul Roamers",
+    "faction": "feral_ghoul",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "00072B8A",
+        "kind": "Feral Ghoul Roamer"
+      },
+      {
+        "code": "00072B7F",
+        "kind": "Feral Ghoul Roamer"
+      },
+      {
+        "code": "0001CF7A",
+        "kind": "Feral Ghoul"
+      }
+    ]
+  },
+  {
+    "id": "ghouls_glowing_one_01",
+    "label": "Glowing One & Pack",
+    "faction": "feral_ghoul",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "0001CF7B",
+        "kind": "Glowing One"
+      },
+      {
+        "code": "00072B82",
+        "kind": "Glowing One (variant)"
+      },
+      {
+        "code": "0001CF7A",
+        "kind": "Feral Ghoul"
+      },
+      {
+        "code": "0001CF7A",
+        "kind": "Feral Ghoul"
+      }
+    ]
+  },
+  {
+    "id": "ants_soldiers_01",
+    "label": "Giant Ant Soldiers",
+    "faction": "creature_ant",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "0001CF81",
+        "kind": "Giant Worker Ant"
+      },
+      {
+        "code": "0001CF80",
+        "kind": "Giant Soldier Ant"
+      },
+      {
+        "code": "00032D2A",
+        "kind": "Giant Soldier Ant (variant)"
+      }
+    ]
+  },
+  {
+    "id": "ants_fire_01",
+    "label": "Fire Ant Patrol",
+    "faction": "creature_ant",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "000AEDE3",
+        "kind": "Fire Ant Worker"
+      },
+      {
+        "code": "000393EC",
+        "kind": "Fire Ant Worker"
+      },
+      {
+        "code": "000AEDE4",
+        "kind": "Fire Ant Soldier"
+      },
+      {
+        "code": "000393ED",
+        "kind": "Fire Ant Soldier"
+      }
+    ]
+  },
+  {
+    "id": "mutants_basic_01",
+    "label": "Super Mutant Skirmishers",
+    "faction": "super_mutant",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "00014C50",
+        "kind": "Super Mutant"
+      },
+      {
+        "code": "0002DB93",
+        "kind": "Super Mutant"
+      },
+      {
+        "code": "00029035",
+        "kind": "Super Mutant"
+      }
+    ]
+  },
+  {
+    "id": "mutants_with_centaur_01",
+    "label": "Mutant Patrol with Centaur",
+    "faction": "super_mutant",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "00014C50",
+        "kind": "Super Mutant"
+      },
+      {
+        "code": "0002DB93",
+        "kind": "Super Mutant"
+      },
+      {
+        "code": "0001CF90",
+        "kind": "Centaur"
+      }
+    ]
+  },
+  {
+    "id": "mutants_brutes_01",
+    "label": "Super Mutant Brute Squad",
+    "faction": "super_mutant",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "0009E8DE",
+        "kind": "Super Mutant Brute"
+      },
+      {
+        "code": "00092C4C",
+        "kind": "Super Mutant Brute"
+      },
+      {
+        "code": "0003A148",
+        "kind": "Super Mutant Brute"
+      }
+    ]
+  },
+  {
+    "id": "mutants_masters_01",
+    "label": "Mutant Masters",
+    "faction": "super_mutant",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "00027FB2",
+        "kind": "Super Mutant Master"
+      },
+      {
+        "code": "00094ECC",
+        "kind": "Super Mutant Master"
+      },
+      {
+        "code": "00092C4E",
+        "kind": "Super Mutant Master"
+      }
+    ]
+  },
+  {
+    "id": "mutants_behemoth_escort_01",
+    "label": "Behemoth with Escort",
+    "faction": "super_mutant",
+    "threat_tier": 5,
+    "spawn": [
+      {
+        "code": "0001CF95",
+        "kind": "Super Mutant Behemoth"
+      },
+      {
+        "code": "0006F587",
+        "kind": "Super Mutant Behemoth (variant)"
+      },
+      {
+        "code": "00014C50",
+        "kind": "Super Mutant"
+      },
+      {
+        "code": "0002DB93",
+        "kind": "Super Mutant"
+      }
+    ]
+  },
+  {
+    "id": "raiders_small_patrol_01",
+    "label": "Small Raider Patrol",
+    "faction": "raider",
+    "threat_tier": 2,
+    "spawn": [
+      {
+        "code": "0002F6D3",
+        "kind": "Raider 1 Gun (AAM)"
+      },
+      {
+        "code": "000295FC",
+        "kind": "Raider 1 Melee (AAM)"
+      },
+      {
+        "code": "0007E203",
+        "kind": "Raider 1 Rifle (AAM)"
+      }
+    ]
+  },
+  {
+    "id": "raiders_roadblock_01",
+    "label": "Raider Roadblock",
+    "faction": "raider",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "0002F6D4",
+        "kind": "Raider 1 Gun (AF)"
+      },
+      {
+        "code": "000295FE",
+        "kind": "Raider 1 Melee (AF)"
+      },
+      {
+        "code": "0007E205",
+        "kind": "Raider 1 Rifle (AF)"
+      },
+      {
+        "code": "0002F6E2",
+        "kind": "Lvl Raider Gun"
+      }
+    ]
+  },
+  {
+    "id": "raiders_mixed_cell_01",
+    "label": "Raider Mixed Cell",
+    "faction": "raider",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "00029603",
+        "kind": "Raider 2 Gun (AAM)"
+      },
+      {
+        "code": "0002F6C3",
+        "kind": "Raider 2 Melee (AAM)"
+      },
+      {
+        "code": "0007F4CF",
+        "kind": "Raider 2 Rifle (AAM)"
+      },
+      {
+        "code": "0002F6DA",
+        "kind": "Raider 3 Gun (AAFTEMPLATE)"
+      }
+    ]
+  },
+  {
+    "id": "raiders_heavy_hitters_01",
+    "label": "Raider Heavy Hitters",
+    "faction": "raider",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "00029616",
+        "kind": "Raider 2 Special (AAFTEMPLATE)"
+      },
+      {
+        "code": "0002A7F9",
+        "kind": "Raider 3 Special (AAFTEMPLATE)"
+      },
+      {
+        "code": "0007F4D6",
+        "kind": "Raider 3 Rifle (AAFTEMPLATE)"
+      }
+    ]
+  },
+  {
+    "id": "talon_sniper_team_01",
+    "label": "Talon Sniper Team",
+    "faction": "talon",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "0007F4EB",
+        "kind": "Talon 1 Sniper (AM)"
+      },
+      {
+        "code": "0007F4F3",
+        "kind": "Talon 2 Sniper (AM)"
+      },
+      {
+        "code": "0007F4FB",
+        "kind": "Talon 3 Sniper (AM)"
+      }
+    ]
+  },
+  {
+    "id": "talon_mixed_squad_01",
+    "label": "Talon Mixed Squad",
+    "faction": "talon",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "00044446",
+        "kind": "Talon 1 Gun (AM)"
+      },
+      {
+        "code": "0004447C",
+        "kind": "Talon 1 Melee (AM)"
+      },
+      {
+        "code": "0004444E",
+        "kind": "Talon 2 Gun (AM)"
+      },
+      {
+        "code": "00044485",
+        "kind": "Talon 2 Melee (AM)"
+      }
+    ]
+  },
+  {
+    "id": "talon_rocket_team_01",
+    "label": "Talon Rocket Team",
+    "faction": "talon",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "000444A7",
+        "kind": "Talon 3 Missile (AM)"
+      },
+      {
+        "code": "00044456",
+        "kind": "Talon 3 Gun (AM)"
+      },
+      {
+        "code": "0004448D",
+        "kind": "Talon 3 Melee (AM)"
+      }
+    ]
+  },
+  {
+    "id": "talon_heavy_strike_01",
+    "label": "Talon Heavy Strike",
+    "faction": "talon",
+    "threat_tier": 5,
+    "spawn": [
+      {
+        "code": "000444A7",
+        "kind": "Talon 3 Missile (AM)"
+      },
+      {
+        "code": "000444A9",
+        "kind": "Talon 3 Missile (CM)"
+      },
+      {
+        "code": "0007F4FB",
+        "kind": "Talon 3 Sniper (AM)"
+      },
+      {
+        "code": "00044456",
+        "kind": "Talon 3 Gun (AM)"
+      }
+    ]
+  },
+  {
+    "id": "enclave_patrol_light_01",
+    "label": "Enclave Light Patrol",
+    "faction": "enclave",
+    "threat_tier": 3,
+    "spawn": [
+      {
+        "code": "00029632",
+        "kind": "Enclave 1 Gun (AAM)"
+      },
+      {
+        "code": "0002962F",
+        "kind": "Enclave 1 Gun (AF)"
+      },
+      {
+        "code": "00029631",
+        "kind": "Enclave 1 Gun (HF)"
+      }
+    ]
+  },
+  {
+    "id": "enclave_gun_squad_01",
+    "label": "Enclave Gun Squad",
+    "faction": "enclave",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "0002964C",
+        "kind": "Enclave 2 Gun (AAM)"
+      },
+      {
+        "code": "00029650",
+        "kind": "Enclave 2 Gun (AF)"
+      },
+      {
+        "code": "00029652",
+        "kind": "Enclave 2 Gun (HF)"
+      },
+      {
+        "code": "00029636",
+        "kind": "Enclave 2 Gun (HM)"
+      }
+    ]
+  },
+  {
+    "id": "enclave_flamer_team_01",
+    "label": "Enclave Flamer Team",
+    "faction": "enclave",
+    "threat_tier": 4,
+    "spawn": [
+      {
+        "code": "00029664",
+        "kind": "Enclave 2 Flamer (AAFTEMPLATE)"
+      },
+      {
+        "code": "0002A7E1",
+        "kind": "Enclave 2 Flamer (AAM)"
+      },
+      {
+        "code": "00029665",
+        "kind": "Enclave 2 Flamer (AF)"
+      }
+    ]
+  },
+  {
+    "id": "enclave_missile_team_01",
+    "label": "Enclave Missile Squad",
+    "faction": "enclave",
+    "threat_tier": 5,
+    "spawn": [
+      {
+        "code": "0002A7E9",
+        "kind": "Enclave 3 Missile (AAFTEMPLATE)"
+      },
+      {
+        "code": "00029668",
+        "kind": "Enclave 3 Missile (AAM)"
+      },
+      {
+        "code": "0002966B",
+        "kind": "Enclave 3 Missile (HM)"
+      }
+    ]
+  },
+  {
+    "id": "enclave_officer_squad_01",
+    "label": "Enclave Officer & Guard",
+    "faction": "enclave",
+    "threat_tier": 5,
+    "spawn": [
+      {
+        "code": "0007D422",
+        "kind": "Enclave 4 Officer (AAM)"
+      },
+      {
+        "code": "0007D424",
+        "kind": "Enclave 4 Officer (AF)"
+      },
+      {
+        "code": "00029654",
+        "kind": "Enclave 3 BigGun (AAM)"
+      },
+      {
+        "code": "00029658",
+        "kind": "Enclave 3 BigGun (AF)"
+      }
+    ]
+  }
+]

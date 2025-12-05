@@ -1,0 +1,698 @@
+[
+    {
+        "id": "cons_bobby_pins",
+        "name": "Bobby Pins",
+        "code": "0000000A",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "utility"
+    },
+    {
+        "id": "cons_stimpak",
+        "name": "Stimpak",
+        "code": "00015169",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "medical"
+    },
+    {
+        "id": "cons_med_x",
+        "name": "Med-X",
+        "code": "00050F8F",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "medical"
+    },
+    {
+        "id": "cons_ant_meat",
+        "name": "Ant Meat",
+        "code": "0003C345",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_beer",
+        "name": "Beer",
+        "code": "00015197",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_berry_mentats",
+        "name": "Berry Mentats",
+        "code": "000BF7C6",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_blamco_mac_and_cheese",
+        "name": "Blamco Mac and Cheese",
+        "code": "0008C556",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_bloatfly_meat",
+        "name": "Bloatfly Meat",
+        "code": "0007C10D",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_blood_pack",
+        "name": "Blood Pack",
+        "code": "00034051",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "medical"
+    },
+    {
+        "id": "cons_brahmin_steak",
+        "name": "Brahmin Steak",
+        "code": "00015198",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_bubblegum",
+        "name": "Bubblegum",
+        "code": "0008C560",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_buffout",
+        "name": "Buffout",
+        "code": "00015163",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_cave_fungus",
+        "name": "Cave Fungus",
+        "code": "00038E0C",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_cram",
+        "name": "Cram",
+        "code": "0008C552",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_crispy_squirrel_bits",
+        "name": "Crispy Squirrel Bits",
+        "code": "00031948",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_crunchy_mutfruit",
+        "name": "Crunchy Mutfruit",
+        "code": "0001519C",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_dandy_boy_apples",
+        "name": "Dandy Boy Apples",
+        "code": "0008C554",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_dirty_water",
+        "name": "Dirty Water",
+        "code": "000151A4",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_dog_meat",
+        "name": "Dog Meat",
+        "code": "00034050",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_fancy_lads_snack_cakes",
+        "name": "Fancy Lads Snack Cakes",
+        "code": "0008C55A",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_fire_ant_nectar",
+        "name": "Fire Ant Nectar",
+        "code": "00085ABB",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_fresh_apple",
+        "name": "Fresh Apple",
+        "code": "00015196",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_fresh_carrot",
+        "name": "Fresh Carrot",
+        "code": "00015199",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_fresh_pear",
+        "name": "Fresh Pear",
+        "code": "0001519F",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_fresh_potato",
+        "name": "Fresh Potato",
+        "code": "000151A0",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_grape_mentats",
+        "name": "Grape Mentats",
+        "code": "000BF7C5",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_gum_drops",
+        "name": "Gum Drops",
+        "code": "0008C564",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_hatchling_mirelurk_meat",
+        "name": "Hatchling Mirelurk Meat",
+        "code": "00065175",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_human_flesh",
+        "name": "Human Flesh",
+        "code": "0003404F",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_ice_cold_nuka_cola",
+        "name": "Ice Cold Nuka-Cola",
+        "code": "00040DCB",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_iguana_bits",
+        "name": "Iguana Bits",
+        "code": "0001519A",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_iguana_on_a_stick",
+        "name": "Iguana on a Stick",
+        "code": "0001519B",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_instamash",
+        "name": "InstaMash",
+        "code": "0008C558",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_jet",
+        "name": "Jet",
+        "code": "00015164",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_junk_food",
+        "name": "Junk Food",
+        "code": "0003359C",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_mentats",
+        "name": "Mentats",
+        "code": "00015165",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_mirelurk_cakes",
+        "name": "Mirelurk Cakes",
+        "code": "0003404D",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_mirelurk_meat",
+        "name": "Mirelurk Meat",
+        "code": "0003404E",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_miss_quantum_pie",
+        "name": "Miss. Quantum Pie",
+        "code": "00049076",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "food"
+    },
+    {
+        "id": "cons_mole_rat_meat",
+        "name": "Mole Rat Meat",
+        "code": "0003404C",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_mole_rat_wonder_meat",
+        "name": "Mole Rat Wonder Meat",
+        "code": "000ABD17",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "food"
+    },
+    {
+        "id": "cons_mutfruit",
+        "name": "Mutfruit",
+        "code": "00034049",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_noodles",
+        "name": "Noodles",
+        "code": "0001519D",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_nuka_cola",
+        "name": "Nuka-Cola",
+        "code": "0001519E",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_nuka_cola_quantum",
+        "name": "Nuka-Cola Quantum",
+        "code": "000284F9",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_nukalurk_meat",
+        "name": "NukaLurk Meat",
+        "code": "00095F48",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_orange_mentats",
+        "name": "Orange Mentats",
+        "code": "000BF7C7",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_pork_n_beans",
+        "name": "Pork N' Beans",
+        "code": "0008C55E",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_potato_crisps",
+        "name": "Potato Crisps",
+        "code": "0008C562",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_psycho",
+        "name": "Psycho",
+        "code": "00015166",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_purified_water",
+        "name": "Purified Water",
+        "code": "000151A3",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_radroach_meat",
+        "name": "Radroach Meat",
+        "code": "0009C957",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_salisbury_steak",
+        "name": "Salisbury Steak",
+        "code": "000293A9",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_scotch",
+        "name": "Scotch",
+        "code": "000151A1",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_softshell_mirelurk_meat",
+        "name": "Softshell Mirelurk Meat",
+        "code": "000552CE",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_squirrel_on_a_stick",
+        "name": "Squirrel on a Stick",
+        "code": "00031949",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_squirrel_stew",
+        "name": "Squirrel Stew",
+        "code": "0003194A",
+        "category": "consumable",
+        "rarity": "tier_3",
+        "tag": "food"
+    },
+    {
+        "id": "cons_strange_meat",
+        "name": "Strange Meat",
+        "code": "0002E376",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_strange_meat_pie",
+        "name": "Strange Meat Pie",
+        "code": "0007E173",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_sugar_bombs",
+        "name": "Sugar Bombs",
+        "code": "0008C551",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_sweetroll",
+        "name": "Sweetroll",
+        "code": "00030A23",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_ultrajet",
+        "name": "Ultrajet",
+        "code": "000C9CF4",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "chem"
+    },
+    {
+        "id": "cons_vodka",
+        "name": "Vodka",
+        "code": "00032C74",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_whiskey",
+        "name": "Whiskey",
+        "code": "00032C75",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_wine",
+        "name": "Wine",
+        "code": "0003404A",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "drink"
+    },
+    {
+        "id": "cons_yao_guai_meat",
+        "name": "Yao Guai Meat",
+        "code": "0003404B",
+        "category": "consumable",
+        "rarity": "tier_2",
+        "tag": "food"
+    },
+    {
+        "id": "cons_yumyum_deviled_eggs",
+        "name": "YumYum Deviled Eggs",
+        "code": "0008C55C",
+        "category": "consumable",
+        "rarity": "tier_1",
+        "tag": "food"
+    },
+    {
+        "id": "cons_big_book_of_science",
+        "name": "Big Book of Science",
+        "code": "0003403C",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_big_book_of_science_2",
+        "name": "Big Book of Science",
+        "code": "0002D3A4",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_chinese_spec_ops_training_manual",
+        "name": "Chinese Spec-Ops Training Manual",
+        "code": "00034045",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_d_c_journal_of_internal_medicine",
+        "name": "D.C. Journal of Internal Medicine",
+        "code": "00034043",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_dean_s_electronics",
+        "name": "Dean's Electronics",
+        "code": "0003403D",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_duck_and_cover",
+        "name": "Duck and Cover!",
+        "code": "0006A80C",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_footlocker",
+        "name": "Footlocker",
+        "code": "000199C2",
+        "category": "misc",
+        "rarity": "tier_4",
+        "tag": "storage"
+    },
+    {
+        "id": "cons_grognak_the_barbarian",
+        "name": "Grognak the Barbarian",
+        "code": "00034040",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_guns_and_bullets",
+        "name": "Guns and Bullets",
+        "code": "0003403E",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_lying_congressional_style",
+        "name": "Lying, Congressional Style",
+        "code": "00034044",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_motivational_secrets_of_the_stars",
+        "name": "Motivational Secrets of the Stars",
+        "code": "0002D3A3",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_nikola_tesla_and_you",
+        "name": "Nikola Tesla and You",
+        "code": "00034041",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_paradise_lost",
+        "name": "Paradise Lost",
+        "code": "000BACFE",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_pugilism_illustrated",
+        "name": "Pugilism Illustrated",
+        "code": "0003403F",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_survival_guide_manuscript",
+        "name": "Survival Guide Manuscript",
+        "code": "0002D3B2",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_tales_of_a_junktown_jerky_vendor",
+        "name": "Tales of a Junktown Jerky Vendor",
+        "code": "00034042",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_tumblers_today",
+        "name": "Tumblers Today",
+        "code": "00034046",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_u_s_army_30_handy_flamethrower_recipes",
+        "name": "U.S. Army: 30 Handy Flamethrower Recipes",
+        "code": "00034048",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_wasteland_survival_guide",
+        "name": "Wasteland Survival Guide",
+        "code": "000C5634",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    },
+    {
+        "id": "cons_you_re_special",
+        "name": "You're SPECIAL!",
+        "code": "000AB2EF",
+        "category": "consumable",
+        "rarity": "tier_4",
+        "tag": "skill_book"
+    }
+]

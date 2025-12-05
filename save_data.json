@@ -1,0 +1,859 @@
+{
+    "game_install_path": "E:/SteamLibrary/steamapps/common/Fallout 3 goty",
+    "scrip": 0,
+    "components": 0,
+    "inventory": {
+        "sos_flare": 0,
+        "task_reroll": 0,
+        "lunchbox": 0
+    },
+    "tasks": [
+        {
+            "task_number": 2,
+            "name": "Sabotage Operation",
+            "difficulty": "easy",
+            "objectives": [
+                [
+                    "\ud83d\udccd",
+                    "Plant Dandy Boy Apples at MDPL-16 power station",
+                    "#00BFFF",
+                    1,
+                    1
+                ],
+                [
+                    "\u2694\ufe0f",
+                    "BONUS: Slay 1 Mammal",
+                    "#FFFFFF",
+                    1,
+                    1
+                ]
+            ],
+            "original_objectives": [
+                [
+                    "\ud83d\udccd",
+                    "Plant Dandy Boy Apples at MDPL-16 power station",
+                    "#00BFFF",
+                    1,
+                    1
+                ],
+                [
+                    "\u2694\ufe0f",
+                    "BONUS: Slay 1 Mammal",
+                    "#FFFFFF",
+                    1,
+                    1
+                ]
+            ],
+            "state": "pending",
+            "reward_mult": 1.75,
+            "tags": [
+                "sabotage",
+                "setup",
+                "covert",
+                "emergency",
+                "bonus_objective"
+            ],
+            "is_emergency": true,
+            "flavor_text": "Recover anything useful before the caravan moves on.",
+            "cycles_remaining": 1,
+            "ready_to_complete": false
+        }
+    ],
+    "taskboard_pool": [
+        {
+            "task_number": 1,
+            "name": "Supply Run",
+            "difficulty": "easy",
+            "objectives": [
+                [
+                    "\ud83d\udce6",
+                    "Retrieve 1 Teddy Bear",
+                    "#FFFF00",
+                    1,
+                    1
+                ]
+            ],
+            "original_objectives": [
+                [
+                    "\ud83d\udce6",
+                    "Retrieve 1 Teddy Bear",
+                    "#FFFF00",
+                    1,
+                    1
+                ]
+            ],
+            "state": "pending",
+            "reward_mult": 1.0,
+            "tags": [
+                "scavenge",
+                "supply_run",
+                "salvage"
+            ],
+            "is_emergency": false,
+            "flavor_text": "",
+            "cycles_remaining": 5,
+            "ready_to_complete": false
+        },
+        {
+            "task_number": 3,
+            "name": "Sabotage Operation",
+            "difficulty": "easy",
+            "objectives": [
+                [
+                    "\ud83d\udccd",
+                    "Plant Carton of Cigarettes at Hallowed Moors Cemetery",
+                    "#00BFFF",
+                    1,
+                    1
+                ],
+                [
+                    "\u2694\ufe0f",
+                    "BONUS: Slay 1 Insect",
+                    "#FFFFFF",
+                    1,
+                    1
+                ]
+            ],
+            "original_objectives": [
+                [
+                    "\ud83d\udccd",
+                    "Plant Carton of Cigarettes at Hallowed Moors Cemetery",
+                    "#00BFFF",
+                    1,
+                    1
+                ],
+                [
+                    "\u2694\ufe0f",
+                    "BONUS: Slay 1 Insect",
+                    "#FFFFFF",
+                    1,
+                    1
+                ]
+            ],
+            "state": "pending",
+            "reward_mult": 1.5,
+            "tags": [
+                "sabotage",
+                "setup",
+                "covert",
+                "bonus_objective"
+            ],
+            "is_emergency": false,
+            "flavor_text": "",
+            "cycles_remaining": 5,
+            "ready_to_complete": false
+        }
+    ],
+    "user_settings": {
+        "xp_mult": 1.0,
+        "caps_mult": 1.0,
+        "scrip_mult": 1.0,
+        "cost_mult": 1.0,
+        "enable_f5_hotkey": true,
+        "enable_ambush_mechanic": true
+    },
+    "raid_active": false,
+    "raids_died": 0,
+    "raids_started": 0,
+    "raids_extracted": 0,
+    "sos_extracts": 0,
+    "consecutive_deaths": 0,
+    "consecutive_extractions": 0,
+    "unlocked_task_slots": 1,
+    "unlocked_task_pool_size": 3,
+    "hideout_stations": {},
+    "generated_station_costs": {
+        "workbench": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "0005B6CB",
+                        "name": "Whet stone",
+                        "qty": 3
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "0005B637",
+                        "name": "Hammer",
+                        "qty": 4
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "0005516B",
+                        "name": "Hot plate",
+                        "qty": 5
+                    },
+                    {
+                        "code": "000220FB",
+                        "name": "Motorcycle gas tank",
+                        "qty": 7
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "0002210E",
+                        "name": "Paint gun",
+                        "qty": 15
+                    },
+                    {
+                        "code": "0005516B",
+                        "name": "Hot plate",
+                        "qty": 9
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0002210B",
+                        "name": "Deathclaw hand",
+                        "qty": 17
+                    },
+                    {
+                        "code": "00033BC6",
+                        "name": "Fission battery",
+                        "qty": 7
+                    }
+                ]
+            }
+        },
+        "printing_press": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "00022108",
+                        "name": "Cherry bomb",
+                        "qty": 6
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "00034062",
+                        "name": "Camera",
+                        "qty": 6
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "00022112",
+                        "name": "Steam gauge assembly",
+                        "qty": 12
+                    },
+                    {
+                        "code": "000220FF",
+                        "name": "Vacuum cleaner",
+                        "qty": 5
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "000220FB",
+                        "name": "Motorcycle gas tank",
+                        "qty": 6
+                    },
+                    {
+                        "code": "00022102",
+                        "name": "Conductor",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0007CBCC",
+                        "name": "Wood chipper",
+                        "qty": 14
+                    },
+                    {
+                        "code": "00033BC6",
+                        "name": "Fission battery",
+                        "qty": 17
+                    }
+                ]
+            }
+        },
+        "kitchen": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "00015198",
+                        "name": "Brahmin Steak",
+                        "qty": 7
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "0001519B",
+                        "name": "Iguana on a Stick",
+                        "qty": 4
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "00095F48",
+                        "name": "NukaLurk Meat",
+                        "qty": 10
+                    },
+                    {
+                        "code": "0001519F",
+                        "name": "Fresh Pear",
+                        "qty": 5
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "00022111",
+                        "name": "Surgical tubing",
+                        "qty": 6
+                    },
+                    {
+                        "code": "00025421",
+                        "name": "Coffee pot",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "000ABD17",
+                        "name": "Mole Rat Wonder Meat",
+                        "qty": 7
+                    },
+                    {
+                        "code": "0001EDC5",
+                        "name": "Brotherhood of Steel holotag",
+                        "qty": 10
+                    }
+                ]
+            }
+        },
+        "ammo_press": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "00022108",
+                        "name": "Cherry bomb",
+                        "qty": 4
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "00074EE1",
+                        "name": "Flour",
+                        "qty": 8
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "000220FE",
+                        "name": "Motorcycle handbrake",
+                        "qty": 5
+                    },
+                    {
+                        "code": "00022102",
+                        "name": "Conductor",
+                        "qty": 7
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "0005B6D0",
+                        "name": "Wrench",
+                        "qty": 9
+                    },
+                    {
+                        "code": "0005B637",
+                        "name": "Hammer",
+                        "qty": 15
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0005B6CB",
+                        "name": "Whet stone",
+                        "qty": 17
+                    },
+                    {
+                        "code": "000340AD",
+                        "name": "Rake",
+                        "qty": 17
+                    }
+                ]
+            }
+        },
+        "chem_lab": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "00033BC6",
+                        "name": "Fission battery",
+                        "qty": 7
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "00022109",
+                        "name": "Sensor module",
+                        "qty": 10
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "00030A23",
+                        "name": "Sweetroll",
+                        "qty": 12
+                    },
+                    {
+                        "code": "00034062",
+                        "name": "Camera",
+                        "qty": 12
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "0005F183",
+                        "name": "Ophthalmascope",
+                        "qty": 6
+                    },
+                    {
+                        "code": "0002B412",
+                        "name": "Pool ball",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "00015169",
+                        "name": "Stimpak",
+                        "qty": 7
+                    },
+                    {
+                        "code": "00022109",
+                        "name": "Sensor module",
+                        "qty": 17
+                    }
+                ]
+            }
+        },
+        "supply_box": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "00034067",
+                        "name": "Pre-War money",
+                        "qty": 3
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "0002920F",
+                        "name": "Metro ticket",
+                        "qty": 8
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "0002210F",
+                        "name": "Radscorpion poison gland",
+                        "qty": 10
+                    },
+                    {
+                        "code": "000199C2",
+                        "name": "Footlocker",
+                        "qty": 12
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "000250A3",
+                        "name": "Bonesaw",
+                        "qty": 15
+                    },
+                    {
+                        "code": "000220FC",
+                        "name": "Pilot light",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0001EDC5",
+                        "name": "Brotherhood of Steel holotag",
+                        "qty": 14
+                    },
+                    {
+                        "code": "000199C2",
+                        "name": "Footlocker",
+                        "qty": 17
+                    }
+                ]
+            }
+        },
+        "bottle_cap_press": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "0005B6CB",
+                        "name": "Whet stone",
+                        "qty": 6
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "0005B6D0",
+                        "name": "Wrench",
+                        "qty": 4
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "0005516B",
+                        "name": "Hot plate",
+                        "qty": 10
+                    },
+                    {
+                        "code": "0005B6D0",
+                        "name": "Wrench",
+                        "qty": 7
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "00034088",
+                        "name": "Iron",
+                        "qty": 12
+                    },
+                    {
+                        "code": "0005B6CB",
+                        "name": "Whet stone",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0005B637",
+                        "name": "Hammer",
+                        "qty": 7
+                    },
+                    {
+                        "code": "00033BC6",
+                        "name": "Fission battery",
+                        "qty": 7
+                    }
+                ]
+            }
+        },
+        "lounge": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "0005B52C",
+                        "name": "Cigarette",
+                        "qty": 7
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "000A9E6D",
+                        "name": "Large ruined book",
+                        "qty": 10
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "000220FF",
+                        "name": "Vacuum cleaner",
+                        "qty": 5
+                    },
+                    {
+                        "code": "000943F2",
+                        "name": "Pre-War book (blue)",
+                        "qty": 7
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "00022113",
+                        "name": "Pressure cooker",
+                        "qty": 12
+                    },
+                    {
+                        "code": "0009A809",
+                        "name": "Chessboard",
+                        "qty": 6
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "00034068",
+                        "name": "Carton of cigarettes",
+                        "qty": 7
+                    },
+                    {
+                        "code": "00022109",
+                        "name": "Sensor module",
+                        "qty": 17
+                    }
+                ]
+            }
+        },
+        "bobblehead_collection": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "0009A808",
+                        "name": "Toaster (pre-War)",
+                        "qty": 7
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "000340BB",
+                        "name": "Spatula",
+                        "qty": 6
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "00029171",
+                        "name": "Nuka-Cola truck",
+                        "qty": 10
+                    },
+                    {
+                        "code": "000943F2",
+                        "name": "Pre-War book (blue)",
+                        "qty": 7
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "0009A809",
+                        "name": "Chessboard",
+                        "qty": 9
+                    },
+                    {
+                        "code": "00034068",
+                        "name": "Carton of cigarettes",
+                        "qty": 12
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0007CBCC",
+                        "name": "Wood chipper",
+                        "qty": 10
+                    },
+                    {
+                        "code": "0002210B",
+                        "name": "Deathclaw hand",
+                        "qty": 14
+                    }
+                ]
+            }
+        },
+        "tree_of_fortune": {
+            "1": {
+                "cost_items": [
+                    {
+                        "code": "000340BB",
+                        "name": "Spatula",
+                        "qty": 4
+                    }
+                ]
+            },
+            "2": {
+                "cost_items": [
+                    {
+                        "code": "00025236",
+                        "name": "Finance clipboard",
+                        "qty": 8
+                    }
+                ]
+            },
+            "3": {
+                "cost_items": [
+                    {
+                        "code": "00000037",
+                        "name": "Cigarette Carton",
+                        "qty": 7
+                    },
+                    {
+                        "code": "00034088",
+                        "name": "Iron",
+                        "qty": 12
+                    }
+                ]
+            },
+            "4": {
+                "cost_items": [
+                    {
+                        "code": "0009A809",
+                        "name": "Chessboard",
+                        "qty": 12
+                    },
+                    {
+                        "code": "000220FC",
+                        "name": "Pilot light",
+                        "qty": 9
+                    }
+                ]
+            },
+            "5": {
+                "cost_items": [
+                    {
+                        "code": "0002210B",
+                        "name": "Deathclaw hand",
+                        "qty": 17
+                    },
+                    {
+                        "code": "00034067",
+                        "name": "Pre-War money",
+                        "qty": 17
+                    }
+                ]
+            }
+        }
+    },
+    "reputation": 0.0,
+    "fortune": 0.0,
+    "threat_level": 1,
+    "current_extractions": [],
+    "ambush_state": {
+        "last_check_time": 0.0,
+        "cooldown_until": 0.0,
+        "ambushes_triggered": 0
+    },
+    "tasks_failed": 0,
+    "emergency_tasks_failed": 0,
+    "active_buffs": [],
+    "reward_history": [],
+    "total_completed_tasks": 0,
+    "easy_completed": 0,
+    "medium_completed": 0,
+    "hard_completed": 0,
+    "emergency_completed": 0,
+    "shop_unlocked": false,
+    "hideout_unlocked": false,
+    "medium_unlocked": false,
+    "hard_unlocked": false,
+    "current_xp": 0,
+    "player_level": 1,
+    "active_side_quests": [
+        "shop_unlock",
+        "bar_unlock",
+        "hideout_unlock"
+    ],
+    "generated_side_quests": [],
+    "quest_progress": {
+        "shop_unlock": [
+            false
+        ],
+        "bar_unlock": [
+            false
+        ],
+        "hideout_unlock": [
+            false
+        ]
+    },
+    "unlocked_intel": [],
+    "unlocked_blueprints": [],
+    "companion_buffs": true,
+    "buffs_active": false,
+    "current_bonuses": {},
+    "baseline": {},
+    "day_cycle": 1,
+    "homepoint": "Megaton",
+    "insured_items": [],
+    "current_raid_modifier": "darkness_falls",
+    "character": {
+        "name": "Corporate Liquidator",
+        "description": "An ex-corporate hitman who treats the wasteland like a hostile boardroom. Professional, detached, and prefers to solve problems from two post codes away.",
+        "stats": {
+            "Strength": 4,
+            "Perception": 9,
+            "Endurance": 4,
+            "Charisma": 3,
+            "Intelligence": 6,
+            "Agility": 8,
+            "Luck": 6
+        },
+        "skills": [
+            "Small Guns",
+            "Sneak",
+            "Lockpick"
+        ],
+        "level_up": "Your armor is paper-thin; do not get hit. Invest heavily in Sneak to ensure you always shoot first. If you break stealth, relocate or extract immediately.",
+        "specialty": "corporate_liquidator"
+    },
+    "raid_difficulty_selection": "Easy"
+}

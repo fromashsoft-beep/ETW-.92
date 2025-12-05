@@ -1,0 +1,173 @@
+{
+    "buy_slots": [
+        null,
+        {
+            "code": "000615A8",
+            "name": "5mm Round",
+            "category": "ammo",
+            "rarity": "tier_1",
+            "qty": 34,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 34
+        },
+        {
+            "code": "0008C55E",
+            "name": "Pork N' Beans",
+            "category": "consumable",
+            "rarity": "tier_1",
+            "qty": 1,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 1
+        },
+        {
+            "code": "00040DCB",
+            "name": "Ice Cold Nuka-Cola",
+            "category": "consumable",
+            "rarity": "tier_2",
+            "qty": 1,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 1
+        },
+        {
+            "code": "00030664",
+            "name": "Mirelurk Bait Grenade",
+            "category": "weapon",
+            "rarity": "tier_1",
+            "qty": 1,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 1
+        },
+        {
+            "code": "00015166",
+            "name": "Psycho",
+            "category": "consumable",
+            "rarity": "tier_2",
+            "qty": 2,
+            "unit_scrip_cost": 2,
+            "total_scrip_cost": 4
+        },
+        {
+            "code": "00078CC2",
+            "name": "Energy Cell",
+            "category": "ammo",
+            "rarity": "tier_1",
+            "qty": 29,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 29
+        },
+        {
+            "code": "0004445B",
+            "name": "Lincoln's Hat",
+            "category": "armor",
+            "rarity": "tier_3",
+            "qty": 1,
+            "unit_scrip_cost": 3,
+            "total_scrip_cost": 3
+        },
+        {
+            "code": "0004C5F9",
+            "name": "Shotgun Shell",
+            "category": "ammo",
+            "rarity": "tier_1",
+            "qty": 28,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 28
+        },
+        {
+            "code": "0002936E",
+            "name": "Dart",
+            "category": "ammo",
+            "rarity": "tier_1",
+            "qty": 26,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 26
+        }
+    ],
+    "sell_slots": [
+        {
+            "code": "0002935B",
+            "name": "BB - Ammo",
+            "category": "ammo",
+            "rarity": "tier_1",
+            "qty": 22,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 22
+        },
+        null,
+        {
+            "code": "0001F21F",
+            "name": "Teddy bear",
+            "category": "misc",
+            "rarity": "tier_1",
+            "qty": 4,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 4
+        },
+        {
+            "code": "0006F2DA",
+            "name": "Mutilated torso",
+            "category": "misc",
+            "rarity": "tier_1",
+            "qty": 5,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 5
+        },
+        {
+            "code": "000250A6",
+            "name": "Tweezers",
+            "category": "misc",
+            "rarity": "tier_1",
+            "qty": 3,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 3
+        },
+        {
+            "code": "0000433A",
+            "name": "Bottlecap Mines",
+            "category": "ammo",
+            "rarity": "tier_2",
+            "qty": 26,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 26
+        },
+        {
+            "code": "0006C587",
+            "name": "Armored Vault 101 Jumpsuit",
+            "category": "armor",
+            "rarity": "tier_2",
+            "qty": 1,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 1
+        },
+        {
+            "code": "0003406C",
+            "name": "Coffee mug",
+            "category": "misc",
+            "rarity": "tier_1",
+            "qty": 4,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 4
+        },
+        {
+            "code": "000943F2",
+            "name": "Pre-War book (blue)",
+            "category": "misc",
+            "rarity": "tier_2",
+            "qty": 5,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 5
+        },
+        {
+            "code": "00034088",
+            "name": "Iron",
+            "category": "misc",
+            "rarity": "tier_2",
+            "qty": 3,
+            "unit_scrip_cost": 1,
+            "total_scrip_cost": 3
+        }
+    ],
+    "scrip_budget": 250,
+    "max_budget": 251,
+    "last_refresh_rep": 1.0335607595793972
+}

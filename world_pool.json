@@ -1,0 +1,3712 @@
+{
+  "enemies": [
+    {
+      "id": "enemy_bloatfly",
+      "name": "bloatfly",
+      "base_difficulty": "easy",
+      "tags": [
+        "insect",
+        "trash_mob",
+        "low_hp"
+      ],
+      "difficulty_bias": [
+        "easy"
+      ],
+      "threat_level": 1,
+      "loot_tags": [
+        "food_junk",
+        "ammo_small"
+      ],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_molerat",
+      "name": "molerat",
+      "base_difficulty": "easy",
+      "tags": [
+        "critter",
+        "melee",
+        "trash_mob"
+      ],
+      "difficulty_bias": [
+        "easy"
+      ],
+      "threat_level": 1,
+      "loot_tags": [
+        "food_junk"
+      ],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_dog",
+      "name": "dog",
+      "base_difficulty": "easy",
+      "tags": [
+        "animal",
+        "melee",
+        "fast"
+      ],
+      "difficulty_bias": [
+        "easy"
+      ],
+      "threat_level": 1,
+      "loot_tags": [
+        "food_junk"
+      ],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_centaur",
+      "name": "centaur",
+      "base_difficulty": "medium",
+      "tags": [
+        "mutant",
+        "ranged",
+        "poison"
+      ],
+      "difficulty_bias": [
+        "easy",
+        "medium"
+      ],
+      "threat_level": 3,
+      "loot_tags": [
+        "mutant_parts",
+        "ammo_small"
+      ],
+      "factions": [
+        "super_mutants"
+      ]
+    },
+    {
+      "id": "enemy_super_mutant_behemoth",
+      "name": "Super Mutant Behemoth",
+      "base_difficulty": "hard",
+      "tags": [
+        "mutant",
+        "boss",
+        "very_high_hp",
+        "melee"
+      ],
+      "difficulty_bias": [
+        "medium",
+        "hard"
+      ],
+      "threat_level": 5,
+      "loot_tags": [
+        "weapons_armor_ammo",
+        "mutant_parts"
+      ],
+      "factions": [
+        "super_mutants"
+      ]
+    },
+    {
+      "id": "enemy_yao_guai",
+      "name": "Yao Guai",
+      "base_difficulty": "hard",
+      "tags": [
+        "animal",
+        "melee",
+        "fast",
+        "high_damage"
+      ],
+      "difficulty_bias": [
+        "medium",
+        "hard"
+      ],
+      "threat_level": 4,
+      "loot_tags": [
+        "food_junk",
+        "leather_pelts"
+      ],
+      "factions": [
+        "yao_guai"
+      ]
+    },
+    {
+      "id": "enemy_feral_ghoul",
+      "name": "Feral Ghoul",
+      "base_difficulty": "easy",
+      "tags": [
+        "ghoul",
+        "undead",
+        "melee",
+        "common"
+      ],
+      "difficulty_bias": [
+        "easy",
+        "medium"
+      ],
+      "threat_level": 1,
+      "loot_tags": [],
+      "factions": [
+        "feral_ghouls"
+      ]
+    },
+    {
+      "id": "enemy_super_mutant",
+      "name": "Super Mutant",
+      "base_difficulty": "medium",
+      "tags": [
+        "mutant",
+        "humanoid",
+        "gun_user",
+        "tough"
+      ],
+      "difficulty_bias": [
+        "medium",
+        "hard"
+      ],
+      "threat_level": 3,
+      "loot_tags": [],
+      "factions": [
+        "super_mutants"
+      ]
+    },
+    {
+      "id": "enemy_raider",
+      "name": "Raider",
+      "base_difficulty": "easy",
+      "tags": [
+        "raider",
+        "humanoid",
+        "gun_user",
+        "bandit",
+        "common"
+      ],
+      "difficulty_bias": [
+        "easy",
+        "medium"
+      ],
+      "threat_level": 1,
+      "loot_tags": [],
+      "factions": [
+        "raiders"
+      ]
+    },
+    {
+      "id": "enemy_mirelurk",
+      "name": "Mirelurk",
+      "base_difficulty": "medium",
+      "tags": [
+        "creature",
+        "armored",
+        "aquatic"
+      ],
+      "difficulty_bias": [
+        "medium"
+      ],
+      "threat_level": 3,
+      "loot_tags": [],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_insect",
+      "name": "Insect",
+      "base_difficulty": "easy",
+      "tags": [
+        "creature",
+        "wildlife",
+        "insect"
+      ],
+      "difficulty_bias": [
+        "easy"
+      ],
+      "threat_level": 1,
+      "loot_tags": [],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_mammal",
+      "name": "Mammal",
+      "base_difficulty": "easy",
+      "tags": [
+        "creature",
+        "wildlife",
+        "animal"
+      ],
+      "difficulty_bias": [
+        "easy"
+      ],
+      "threat_level": 1,
+      "loot_tags": [],
+      "factions": [
+        "wildlife"
+      ]
+    },
+    {
+      "id": "enemy_robot",
+      "name": "Robot",
+      "base_difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "robot",
+        "ranged"
+      ],
+      "difficulty_bias": [
+        "medium",
+        "hard"
+      ],
+      "threat_level": 3,
+      "loot_tags": [],
+      "factions": [
+        "robots"
+      ]
+    },
+    {
+      "id": "enemy_deathclaw",
+      "name": "Deathclaw",
+      "base_difficulty": "hard",
+      "tags": [
+        "creature",
+        "melee",
+        "apex_predator",
+        "very_dangerous"
+      ],
+      "difficulty_bias": [
+        "hard"
+      ],
+      "threat_level": 5,
+      "loot_tags": [],
+      "factions": [
+        "wildlife"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "item_308_ammo",
+      "name": ".308 Ammo",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_44_ammo",
+      "name": ".44 Ammo",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_12_gauge_ammo",
+      "name": "12 Gauge Ammo",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_5_56mm_ammo",
+      "name": "5.56mm Ammo",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_5mm_ammo",
+      "name": "5mm Ammo",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_mini_nuke",
+      "name": "Mini Nuke",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_missile",
+      "name": "Missile",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_railway_spikes",
+      "name": "Railway Spikes",
+      "category": "ammo",
+      "tags": [
+        "ammo",
+        "combat_supply"
+      ]
+    },
+    {
+      "id": "item_mirelurk_meat",
+      "name": "Mirelurk Meat",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_deathclaw_hand",
+      "name": "Deathclaw Hand",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_yao_guai_meat",
+      "name": "Yao Guai Meat",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_dog_meat",
+      "name": "Dog Meat",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_molerat_meat",
+      "name": "Molerat Meat",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_cram",
+      "name": "Cram",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_dandy_boy_apples",
+      "name": "Dandy Boy Apples",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_fancy_lad_snack_cakes",
+      "name": "Fancy Lad Snack Cakes",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_instamash",
+      "name": "InstaMash",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_pork_n_beans",
+      "name": "Pork n' Beans",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_salisbury_steak",
+      "name": "Salisbury Steak",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_sugar_bombs",
+      "name": "Sugar Bombs",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_sweet_roll",
+      "name": "Sweet Roll",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_yumyum_deviled_eggs",
+      "name": "YumYum Deviled Eggs",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food"
+      ]
+    },
+    {
+      "id": "item_nuka_cola",
+      "name": "Nuka-Cola",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food",
+        "drink"
+      ]
+    },
+    {
+      "id": "item_purified_water",
+      "name": "Purified Water",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food",
+        "drink"
+      ]
+    },
+    {
+      "id": "item_scotch",
+      "name": "Scotch",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food",
+        "alcohol"
+      ]
+    },
+    {
+      "id": "item_whiskey",
+      "name": "Whiskey",
+      "category": "consumable",
+      "tags": [
+        "consumable",
+        "food",
+        "alcohol"
+      ]
+    },
+    {
+      "id": "item_blood_pack",
+      "name": "Blood Pack",
+      "category": "chem",
+      "tags": [
+        "chem",
+        "medical"
+      ]
+    },
+    {
+      "id": "item_buffout",
+      "name": "Buffout",
+      "category": "chem",
+      "tags": [
+        "chem"
+      ]
+    },
+    {
+      "id": "item_jet",
+      "name": "Jet",
+      "category": "chem",
+      "tags": [
+        "chem"
+      ]
+    },
+    {
+      "id": "item_med_x",
+      "name": "Med-X",
+      "category": "chem",
+      "tags": [
+        "chem"
+      ]
+    },
+    {
+      "id": "item_mentats",
+      "name": "Mentats",
+      "category": "chem",
+      "tags": [
+        "chem"
+      ]
+    },
+    {
+      "id": "item_psycho",
+      "name": "Psycho",
+      "category": "chem",
+      "tags": [
+        "chem"
+      ]
+    },
+    {
+      "id": "item_radaway",
+      "name": "RadAway",
+      "category": "chem",
+      "tags": [
+        "chem",
+        "medical"
+      ]
+    },
+    {
+      "id": "item_rad_x",
+      "name": "Rad-X",
+      "category": "chem",
+      "tags": [
+        "chem",
+        "medical"
+      ]
+    },
+    {
+      "id": "item_stimpak",
+      "name": "Stimpak",
+      "category": "chem",
+      "tags": [
+        "chem",
+        "medical"
+      ]
+    },
+    {
+      "id": "item_pistol",
+      "name": "Pistol",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_rifle",
+      "name": "Rifle",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_shotgun",
+      "name": "Shotgun",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_smg",
+      "name": "SMG",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_big_gun",
+      "name": "Big Gun",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_mine",
+      "name": "Mine",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_grenade",
+      "name": "Grenade",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_blade",
+      "name": "Blade",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_blunt",
+      "name": "Blunt",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_baseball_glove",
+      "name": "Baseball Glove",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_bos_holotag",
+      "name": "BoS Holotag",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_unarmed",
+      "name": "Unarmed",
+      "category": "weapon",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "id": "item_camera",
+      "name": "Camera",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_carton_of_cigarettes",
+      "name": "Carton of Cigarettes",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_conductor",
+      "name": "Conductor",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_firehose_nozzle",
+      "name": "Firehose Nozzle",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_fission_battery",
+      "name": "Fission Battery",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_harmonica",
+      "name": "Harmonica",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_intact_garden_gnome",
+      "name": "Intact Garden Gnome",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_lunchbox",
+      "name": "Lunchbox",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_motorcycle_gas_tank",
+      "name": "Motorcycle Gas Tank",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_nuka_cola_truck",
+      "name": "Nuka-Cola Truck",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_pre_war_book",
+      "name": "Pre-War Book",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_pre_war_money",
+      "name": "Pre-War Money",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_sensor_module",
+      "name": "Sensor Module",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_teddy_bear",
+      "name": "Teddy Bear",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_vacuum_cleaner",
+      "name": "Vacuum Cleaner",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_wonderglue",
+      "name": "Wonderglue",
+      "category": "junk",
+      "tags": [
+        "junk",
+        "misc"
+      ]
+    },
+    {
+      "id": "item_vault_apparel",
+      "name": "Vault Apparel",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_combat_armor",
+      "name": "Combat Armor",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_power_armor",
+      "name": "Power Armor",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_raider_armor",
+      "name": "Raider Armor",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_clothing",
+      "name": "Clothing",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_helmet",
+      "name": "Helmet",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_hat",
+      "name": "Hat",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    },
+    {
+      "id": "item_eyewear",
+      "name": "Eyewear",
+      "category": "armor",
+      "tags": [
+        "armor",
+        "apparel"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc_abandoned_camp",
+      "name": "Abandoned camp",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_abandoned_car_fort",
+      "name": "Abandoned car fort",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_abandoned_tent",
+      "name": "Abandoned tent",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_agatha_s_house",
+      "name": "Agatha's house",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "civilians"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_antagonizer_s_lair",
+      "name": "AntAgonizer's lair",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_bethesda_ruins",
+      "name": "Bethesda ruins",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_broadcast_tower_kb5",
+      "name": "Broadcast tower KB5",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_broadcast_tower_kt8",
+      "name": "Broadcast tower KT8",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_broadcast_tower_lp8",
+      "name": "Broadcast tower LP8",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_calverton",
+      "name": "Calverton",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_camp_rho",
+      "name": "Camp RHO",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_car_dealership",
+      "name": "Car dealership",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_charnel_house",
+      "name": "Charnel house",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_chaste_acres_dairy_farm",
+      "name": "Chaste Acres Dairy Farm",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_chryslus_building",
+      "name": "Chryslus Building",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_cliffside_cavern",
+      "name": "Cliffside cavern",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_clifftop_shacks",
+      "name": "Clifftop shacks",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_concrete_treehouse",
+      "name": "Concrete treehouse",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_corvega_factory",
+      "name": "Corvega factory",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_cratered_hamlet",
+      "name": "Cratered hamlet",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_deathclaw_sanctuary",
+      "name": "Deathclaw sanctuary",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "deathclaws"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dickerson_tabernacle_chapel",
+      "name": "Dickerson Tabernacle Chapel",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_drainage_chamber",
+      "name": "Drainage chamber",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_drowned_devil_s_crossing",
+      "name": "Drowned Devil's Crossing",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dukov_s_place",
+      "name": "Dukov's place",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dunwich_building",
+      "name": "Dunwich Building",
+      "difficulty": "hard",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [
+        "feral_ghouls"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_everglow_national_campground",
+      "name": "Everglow National Campground",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_evergreen_mills",
+      "name": "Evergreen Mills",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_exploding_scientist_truck",
+      "name": "Exploding scientist truck",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_f_scott_key_trail_campground",
+      "name": "F. Scott Key Trail & Campground",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_faded_pomp_estates",
+      "name": "Faded Pomp Estates",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_fairfax_ruins",
+      "name": "Fairfax ruins",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_festive_raider_camp",
+      "name": "Festive raider camp",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_five_axles_rest_stop",
+      "name": "Five Axles rest stop",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_flooded_metro_raider_camp",
+      "name": "Flooded metro raider camp",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "metro",
+        "underground",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_fordham_flash_memorial_field",
+      "name": "Fordham Flash Memorial Field",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_fort_bannister",
+      "name": "Fort Bannister",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_bannister_crater",
+      "name": "Bannister crater",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_fort_constantine",
+      "name": "Fort Constantine",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_fort_independence",
+      "name": "Fort Independence",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_freeway_raider_encampment",
+      "name": "Freeway raider encampment",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_germantown",
+      "name": "Germantown",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_germantown_police_hq",
+      "name": "Germantown police HQ",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_ghoul_outpost",
+      "name": "Ghoul outpost",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "feral_ghouls"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_greener_pastures_disposal_site",
+      "name": "Greener Pastures disposal site",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_grisly_diner",
+      "name": "Grisly diner",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_chems_junk"
+      ]
+    },
+    {
+      "id": "loc_hallowed_moors_cemetery",
+      "name": "Hallowed Moors Cemetery",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_hamilton_s_hideaway",
+      "name": "Hamilton's hideaway",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_hilltop_farm_ruins",
+      "name": "Hilltop farm ruins",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors",
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_hollowed_out_rock",
+      "name": "Hollowed-out rock",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jackknifed_freeway_truck",
+      "name": "Jackknifed freeway truck",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jalbert_brothers_waste_disposal",
+      "name": "Jalbert Brothers waste disposal",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jocko_s_pop_gas_stop",
+      "name": "Jocko's Pop & Gas stop",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_gold_ribbon_grocers",
+      "name": "Gold Ribbon Grocers",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_chems_junk"
+      ]
+    },
+    {
+      "id": "loc_kaelyn_s_bed_breakfast",
+      "name": "Kaelyn's Bed & Breakfast",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_lucky_s",
+      "name": "Lucky's",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mason_dixon_salvage",
+      "name": "Mason Dixon Salvage",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mdpl_05_power_station",
+      "name": "MDPL-05 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_mdpl_13_power_station",
+      "name": "MDPL-13 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_mdpl_16_power_station",
+      "name": "MDPL-16 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_mdpl_21_power_station",
+      "name": "MDPL-21 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_mdpl_mass_relay_station",
+      "name": "MDPL mass relay station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_meresti_trainyard",
+      "name": "Meresti trainyard",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_riverside_raider_shacks",
+      "name": "Riverside raider shacks",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_military_checkpoints",
+      "name": "Military checkpoints",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_minefield",
+      "name": "Minefield",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_monorail_train_wreckage",
+      "name": "Monorail train wreckage",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mole_rat_race_track",
+      "name": "Mole rat race track",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_montgomery_county_reservoir",
+      "name": "Montgomery County Reservoir",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_moonbeam_outdoor_cinema",
+      "name": "Moonbeam Outdoor Cinema",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mount_mabel_campground",
+      "name": "Mount Mabel Campground",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_musty_caverns",
+      "name": "Musty caverns",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_national_guard_depot",
+      "name": "National Guard Depot",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_nuka_cola_plant",
+      "name": "Nuka-Cola plant",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_old_olney",
+      "name": "Old Olney",
+      "difficulty": "hard",
+      "environment_tags": [
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "deathclaws"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_the_overlook_drive_in",
+      "name": "The Overlook Drive-In",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_overlook_raider_shack",
+      "name": "Overlook raider shack",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_pirate_pely",
+      "name": "Pirate Pely",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_patriotic_picnic_area",
+      "name": "Patriotic picnic area",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_pylon_shack",
+      "name": "Pylon shack",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_raid_shack",
+      "name": "Raid shack",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_raider_canal",
+      "name": "Raider canal",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_raider_farmhouse",
+      "name": "Raider farmhouse",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors"
+      ],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_raider_shop",
+      "name": "Raider shop",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_raider_wharf",
+      "name": "Raider wharf",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_raider_wreckage_fortifications",
+      "name": "Raider wreckage fortifications",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "raiders"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_reclining_groves_resort_homes",
+      "name": "Reclining Groves Resort Homes",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_red_racer_factory",
+      "name": "Red Racer factory",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_regulator_hq",
+      "name": "Regulator HQ",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "civilians"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_relay_tower_kx_b8_11",
+      "name": "Relay tower KX-B8-11",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_the_roach_king_s_throne",
+      "name": "The Roach King's throne",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_robco_facility",
+      "name": "RobCo facility",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_robot_repair_center",
+      "name": "Robot repair center",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_rockbreaker_s_last_gas",
+      "name": "Rockbreaker's Last Gas",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_rock_creek_caverns",
+      "name": "Rock Creek Caverns",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_rockopolis",
+      "name": "Rockopolis",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_roosevelt_academy",
+      "name": "Roosevelt Academy",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_satcom_array_nn_03d",
+      "name": "SatCom Array NN-03d",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "mixed_loot",
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_satcom_array_nw_05a",
+      "name": "SatCom Array NW-05a",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "mixed_loot",
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_satcom_array_nw_07c",
+      "name": "SatCom Array NW-07c",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "robots"
+      ],
+      "loot_tags": [
+        "mixed_loot",
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_scavenger_s_bridge",
+      "name": "Scavenger's bridge",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_scavenger_s_dock",
+      "name": "Scavenger's dock",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_scavenger_shack",
+      "name": "Scavenger shack",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_scrapyard",
+      "name": "Scrapyard",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "scavengers"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_sewer_grayditch",
+      "name": "Sewer (Grayditch)",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_sewer_waystation",
+      "name": "Sewer waystation",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_shalebridge",
+      "name": "Shalebridge",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_shelter",
+      "name": "Shelter",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_smith_casey_s_garage",
+      "name": "Smith Casey's garage",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_sniper_shack",
+      "name": "Sniper shack",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_the_silver_lining_drive_in",
+      "name": "The Silver Lining Drive-In",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_springvale",
+      "name": "Springvale",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_springvale_school",
+      "name": "Springvale school",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_super_duper_mart",
+      "name": "Super-Duper Mart",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_chems_junk"
+      ]
+    },
+    {
+      "id": "loc_super_mutant_bonfire",
+      "name": "Super mutant bonfire",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_talon_company_camp",
+      "name": "Talon Company camp",
+      "difficulty": "hard",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [
+        "military"
+      ],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_temple_of_the_union",
+      "name": "Temple of the Union",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "civilians"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_vapl_58_power_station",
+      "name": "VAPL-58 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_vapl_66_power_station",
+      "name": "VAPL-66 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_vapl_84_power_station",
+      "name": "VAPL-84 power station",
+      "difficulty": "hard",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_warrington_trainyard",
+      "name": "Warrington trainyard",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_shacktown",
+      "name": "Shacktown",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_wheaton_armory",
+      "name": "Wheaton Armory",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military",
+        "robots"
+      ],
+      "loot_tags": [
+        "weapons_armor_ammo"
+      ]
+    },
+    {
+      "id": "loc_wkml_broadcast_station",
+      "name": "WKML Broadcast Station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_yao_guai_tunnels",
+      "name": "Yao guai tunnels",
+      "difficulty": "hard",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [
+        "yao_guai"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_wastelander_tent_and_sniper_vista",
+      "name": "Wastelander tent and sniper vista",
+      "difficulty": "medium",
+      "environment_tags": [
+        "camp",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_wilks_house",
+      "name": "Wilks' house",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_willy_s_grocer",
+      "name": "Willy's grocer",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_chems_junk"
+      ]
+    },
+    {
+      "id": "loc_rivet_city",
+      "name": "Rivet City",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "civilians"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jefferson_memorial_1",
+      "name": "Jefferson Memorial[1]",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_arlington_house",
+      "name": "Arlington House",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mama_dolce_s",
+      "name": "Mama Dolce's",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_gnr_building_plaza",
+      "name": "GNR building plaza",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_burnside_bank_loan",
+      "name": "Burnside Bank & Loan",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_lady_frumperton_s_fashions",
+      "name": "Lady Frumperton's Fashions",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_l_o_b_enterprises",
+      "name": "L.O.B. Enterprises",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_c_o_canal",
+      "name": "C&O Canal",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_radiation_king",
+      "name": "Radiation King",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_cornucopia_fresh_groceries",
+      "name": "Cornucopia Fresh Groceries",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "food_chems_junk"
+      ]
+    },
+    {
+      "id": "loc_mcclellan_family_townhome",
+      "name": "McClellan family townhome",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_la_maison_beauregard",
+      "name": "La Maison Beauregard",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_capitol_post",
+      "name": "Capitol Post",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_madame_jealle_s",
+      "name": "Madame Jealle's",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_l_enfant_caf",
+      "name": "L'Enfant Caf\u00e9",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_besnik_s_barbershop",
+      "name": "Besnik's Barbershop",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_majority_whip_s",
+      "name": "Majority Whip's!",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_hubris_comics",
+      "name": "Hubris Comics",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_white_house",
+      "name": "White House",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_hotel",
+      "name": "Hotel",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_utility",
+      "name": "Utility",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_alexandria_arms",
+      "name": "Alexandria Arms",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_arlington_library",
+      "name": "Arlington Library",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_the_citadel",
+      "name": "The Citadel",
+      "difficulty": "hard",
+      "environment_tags": [],
+      "enemy_factions": [
+        "military"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_flooded_metro_cw",
+      "name": "Flooded metro (CW)",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_francis_scott_key_bridge",
+      "name": "Francis Scott Key Bridge",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_irradiated_metro",
+      "name": "Irradiated metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_wilhelm_s_wharf",
+      "name": "Wilhelm's Wharf",
+      "difficulty": "easy",
+      "environment_tags": [],
+      "enemy_factions": [
+        "civilians"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_anchorage_memorial",
+      "name": "Anchorage Memorial",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_ranger_compound",
+      "name": "Ranger Compound",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_the_capitol_building",
+      "name": "The Capitol Building",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_takoma_industrial",
+      "name": "Takoma Industrial",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_takoma_motor_service_and_repair",
+      "name": "Takoma Motor Service and Repair",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_nifty_thrifty_s",
+      "name": "Nifty Thrifty's",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_museum_of_technology",
+      "name": "Museum of Technology",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_lincoln_memorial",
+      "name": "Lincoln Memorial",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_washington_monument",
+      "name": "Washington Monument",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_national_archives",
+      "name": "National Archives",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_the_capitol_building",
+      "name": "The Capitol Building",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_mirelurk_nesting_hole",
+      "name": "Mirelurk nesting hole",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [
+        "mirelurks"
+      ],
+      "loot_tags": [
+        "mixed_loot",
+        "food_junk"
+      ]
+    },
+    {
+      "id": "loc_abernathy_metro_station",
+      "name": "Abernathy Metro station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_our_lady_of_hope_hospital",
+      "name": "Our Lady of Hope Hospital",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_statesman_hotel",
+      "name": "Statesman Hotel",
+      "difficulty": "medium",
+      "environment_tags": [
+        "urban_interior"
+      ],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_vault_tec_headquarters",
+      "name": "Vault-Tec headquarters",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_sewer_entrance",
+      "name": "Sewer entrance",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_anacostia_crossing_station",
+      "name": "Anacostia Crossing Station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_arlington_utility",
+      "name": "Arlington utility",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_arlington_falls_church_metro",
+      "name": "Arlington/Falls Church Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_arlington_wasteland_metro",
+      "name": "Arlington Wasteland Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_bethesda_underworks",
+      "name": "Bethesda underworks",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_collapsed_car_tunnel",
+      "name": "Collapsed car tunnel",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dcta_tunnel_014_b_potomac",
+      "name": "DCTA tunnel 014-B Potomac",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dry_sewer",
+      "name": "Dry sewer",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_dupont_circle_station",
+      "name": "Dupont Circle station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_fairfax_metro_station",
+      "name": "Fairfax Metro station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_falls_church_mason_dst_metro",
+      "name": "Falls Church/Mason Dst Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_farragut_west_station",
+      "name": "Farragut West station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_flooded_metro",
+      "name": "Flooded metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_foggy_bottom_station",
+      "name": "Foggy Bottom station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_franklin_metro_utility",
+      "name": "Franklin Metro utility",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_freedom_street_station",
+      "name": "Freedom Street station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_friendship_heights",
+      "name": "Friendship Heights",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_georgetown_mall_metro",
+      "name": "Georgetown Mall Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground",
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_hazmat_disposal_site_l5",
+      "name": "Hazmat disposal site L5",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_irradiated_metro",
+      "name": "Irradiated metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jury_st_station",
+      "name": "Jury St. station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_jury_st_tunnels",
+      "name": "Jury St. tunnels",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_marigold_station",
+      "name": "Marigold station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground",
+        "urban_ruin",
+        "wasteland"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_meresti_metro_station",
+      "name": "Meresti Metro station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_meresti_service_tunnel",
+      "name": "Meresti service tunnel",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_metro_access_generator",
+      "name": "Metro access & generator",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_metro_central",
+      "name": "Metro Central",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_metro_junction",
+      "name": "Metro Junction",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_museum_station",
+      "name": "Museum station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_northwest_seneca_station",
+      "name": "Northwest Seneca Station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_penn_ave_georgetown_metro",
+      "name": "Penn Ave Georgetown Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_penn_ave_seward_square_metro",
+      "name": "Penn Ave Seward Square Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground",
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_penn_ave_mall_metro",
+      "name": "Penn Ave Mall Metro",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground",
+        "urban_interior"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "chems_junk"
+      ]
+    },
+    {
+      "id": "loc_sewer_metro",
+      "name": "Sewer (metro)",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_sunken_sewer",
+      "name": "Sunken sewer",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_tenleytown_friendship_station",
+      "name": "Tenleytown/Friendship station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_tepid_sewers",
+      "name": "Tepid Sewers",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_vernon_east_takoma_park",
+      "name": "Vernon East/Takoma Park",
+      "difficulty": "medium",
+      "environment_tags": [
+        "outdoors"
+      ],
+      "enemy_factions": [
+        "super_mutants"
+      ],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_warrington_station",
+      "name": "Warrington station",
+      "difficulty": "medium",
+      "environment_tags": [
+        "metro",
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_warrington_tunnels",
+      "name": "Warrington tunnels",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    },
+    {
+      "id": "loc_vault_87",
+      "name": "Vault 87",
+      "difficulty": "hard",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_vault_92",
+      "name": "Vault 92",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_vault_101",
+      "name": "Vault 101",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_vault_106",
+      "name": "Vault 106",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_vault_108",
+      "name": "Vault 108",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_vault_112",
+      "name": "Vault 112",
+      "difficulty": "medium",
+      "environment_tags": [
+        "underground",
+        "vault"
+      ],
+      "enemy_factions": [],
+      "loot_tags": [
+        "ammo",
+        "chems_junk",
+        "tech"
+      ]
+    },
+    {
+      "id": "loc_any_dungeon",
+      "name": "Any Dungeon",
+      "difficulty": "medium",
+      "environment_tags": [],
+      "enemy_factions": [],
+      "loot_tags": [
+        "mixed_loot"
+      ]
+    }
+  ],
+  "extractions": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9",
+    "A10",
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15",
+    "A16",
+    "A17",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "B9",
+    "B10",
+    "B11",
+    "B12",
+    "B13",
+    "B14",
+    "B15",
+    "B16",
+    "B17",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15",
+    "C16",
+    "C17",
+    "D1",
+    "D2",
+    "D3",
+    "D15",
+    "D16",
+    "D17",
+    "E1",
+    "E2",
+    "E3",
+    "E15",
+    "E16",
+    "E17",
+    "F1",
+    "F2",
+    "F3",
+    "F15",
+    "F16",
+    "F17",
+    "G1",
+    "G2",
+    "G3",
+    "G15",
+    "G16",
+    "G17",
+    "H1",
+    "H2",
+    "H3",
+    "H15",
+    "H16",
+    "H17",
+    "I1",
+    "I2",
+    "I3",
+    "I15",
+    "I16",
+    "I17",
+    "J1",
+    "J2",
+    "J3",
+    "J15",
+    "J16",
+    "J17",
+    "K1",
+    "K2",
+    "K3",
+    "K15",
+    "K16",
+    "K17",
+    "L1",
+    "L2",
+    "L3",
+    "L15",
+    "L16",
+    "L17",
+    "M1",
+    "M2",
+    "M3",
+    "M15",
+    "M16",
+    "M17",
+    "N1",
+    "N2",
+    "N3",
+    "N15",
+    "N16",
+    "N17",
+    "O1",
+    "O2",
+    "O3",
+    "O4",
+    "O5",
+    "O6",
+    "O7",
+    "O8",
+    "O9",
+    "O10",
+    "O11",
+    "O12",
+    "O13",
+    "O14",
+    "O15",
+    "O16",
+    "O17",
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P8",
+    "P9",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16",
+    "P17",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15",
+    "Q16",
+    "Q17"
+  ]
+}

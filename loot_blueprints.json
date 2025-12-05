@@ -1,0 +1,595 @@
+{
+  "components": [
+    {
+      "name": "Scrap metal",
+      "code": "00031944",
+      "components_yield": 1
+    },
+    {
+      "name": "Turpentine",
+      "code": "00022105",
+      "components_yield": 1
+    },
+    {
+      "name": "Abraxo cleaner",
+      "code": "00022106",
+      "components_yield": 1
+    },
+    {
+      "name": "Wonderglue",
+      "code": "0002210A",
+      "components_yield": 1
+    },
+    {
+      "name": "Wrench",
+      "code": "0005B6D0",
+      "components_yield": 1
+    },
+    {
+      "name": "Hammer",
+      "code": "0005B637",
+      "components_yield": 1
+    },
+    {
+      "name": "Cherry bomb",
+      "code": "00022108",
+      "components_yield": 1
+    },
+    {
+      "name": "Leather belt",
+      "code": "0002210C",
+      "components_yield": 1
+    },
+    {
+      "name": "Flour",
+      "code": "00074EE1",
+      "components_yield": 1
+    },
+    {
+      "name": "Paperweight",
+      "code": "0003409D",
+      "components_yield": 1
+    },
+    {
+      "name": "Bobby pin",
+      "code": "0000000A",
+      "components_yield": 1
+    },
+    {
+      "name": "Firehose nozzle",
+      "code": "00022101",
+      "components_yield": 2
+    },
+    {
+      "name": "Iron",
+      "code": "00034088",
+      "components_yield": 2
+    },
+    {
+      "name": "Lawn mower blade",
+      "code": "00025E03",
+      "components_yield": 2
+    },
+    {
+      "name": "Lunchbox",
+      "code": "00022107",
+      "components_yield": 2
+    },
+    {
+      "name": "Motorcycle gas tank",
+      "code": "000220FB",
+      "components_yield": 2
+    },
+    {
+      "name": "Motorcycle handbrake",
+      "code": "000220FE",
+      "components_yield": 2
+    },
+    {
+      "name": "Paint gun",
+      "code": "0002210E",
+      "components_yield": 2
+    },
+    {
+      "name": "Pilot light",
+      "code": "000220FC",
+      "components_yield": 2
+    },
+    {
+      "name": "Scalpel",
+      "code": "000250A5",
+      "components_yield": 2
+    },
+    {
+      "name": "Scissors",
+      "code": "000250A4",
+      "components_yield": 2
+    },
+    {
+      "name": "Surgical tubing",
+      "code": "00022111",
+      "components_yield": 2
+    },
+    {
+      "name": "Hot plate",
+      "code": "0005516B",
+      "components_yield": 2
+    },
+    {
+      "name": "Sensor module",
+      "code": "00022109",
+      "components_yield": 3
+    },
+    {
+      "name": "Fission battery",
+      "code": "00033BC6",
+      "components_yield": 3
+    },
+    {
+      "name": "Deathclaw hand",
+      "code": "0002210B",
+      "components_yield": 3
+    },
+    {
+      "name": "Wood chipper",
+      "code": "0007CBCC",
+      "components_yield": 3
+    },
+    {
+      "name": "Leaf blower",
+      "code": "00022100",
+      "components_yield": 3
+    },
+    {
+      "name": "Conductor",
+      "code": "00022102",
+      "components_yield": 3
+    },
+    {
+      "name": "Camera",
+      "code": "00034062",
+      "components_yield": 3
+    },
+    {
+      "name": "Pressure cooker",
+      "code": "00022113",
+      "components_yield": 3
+    },
+    {
+      "name": "Vacuum cleaner",
+      "code": "000220FF",
+      "components_yield": 3
+    },
+    {
+      "name": "Gold Bar",
+      "code": "00004336",
+      "components_yield": 4
+    }
+  ],
+  "blueprints": [
+    {
+      "name": "Army Power Armor",
+      "item_type": "armor",
+      "code": "00061A72",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Brotherhood Power Armor",
+      "item_type": "armor",
+      "code": "00075201",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Brotherhood Power Helmet",
+      "item_type": "armor",
+      "code": "00075203",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Combat Armor",
+      "item_type": "armor",
+      "code": "00020420",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Combat Helmet",
+      "item_type": "armor",
+      "code": "00020426",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Enclave Power Armor",
+      "item_type": "armor",
+      "code": "00023B62",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Eyebot Helmet",
+      "item_type": "armor",
+      "code": "0004E6A0",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Leather Armor",
+      "item_type": "armor",
+      "code": "00020423",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Metal Armor",
+      "item_type": "armor",
+      "code": "0003307F",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Metal Helmet",
+      "item_type": "armor",
+      "code": "00033080",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Outcast Power Armor",
+      "item_type": "armor",
+      "code": "00060C70",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Outcast Power Helmet",
+      "item_type": "armor",
+      "code": "00060C72",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Outcast Recon Helmet",
+      "item_type": "armor",
+      "code": "000645ED",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Power Armor",
+      "item_type": "armor",
+      "code": "00014E13",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Power Helmet",
+      "item_type": "armor",
+      "code": "00014C08",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Power-Suit Armor",
+      "item_type": "armor",
+      "code": "000CB60C",
+      "station_level_required": 4,
+      "components_cost": 12,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Arclight Helmet",
+      "item_type": "armor",
+      "code": "00078644",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Badlands Armor",
+      "item_type": "armor",
+      "code": "0003307D",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Blastmaster Armor",
+      "item_type": "armor",
+      "code": "0003307E",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Blastmaster Helmet",
+      "item_type": "armor",
+      "code": "0005B6E8",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Painspike Armor",
+      "item_type": "armor",
+      "code": "0002042F",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Psycho-Tic Helmet",
+      "item_type": "armor",
+      "code": "00020432",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Sadist Armor",
+      "item_type": "armor",
+      "code": "0003307C",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Raider Wastehound Helmet",
+      "item_type": "armor",
+      "code": "00078645",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Ranger Battle Armor",
+      "item_type": "armor",
+      "code": "00023030",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": ".32 Pistol",
+      "item_type": "weapon",
+      "code": "0000080A",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "10mm Pistol",
+      "item_type": "weapon",
+      "code": "0000434F",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "10mm Sub Machine gun",
+      "item_type": "weapon",
+      "code": "00004321",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Assault Rifle",
+      "item_type": "weapon",
+      "code": "0001FFEC",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Baseball Bat",
+      "item_type": "weapon",
+      "code": "0000421C",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Brass Knuckles",
+      "item_type": "weapon",
+      "code": "00004324",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Chinese Assault Rifle",
+      "item_type": "weapon",
+      "code": "00046BDD",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Chinese Pistol",
+      "item_type": "weapon",
+      "code": "00004325",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Combat Knife",
+      "item_type": "weapon",
+      "code": "00004326",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Combat Shotgun",
+      "item_type": "weapon",
+      "code": "0003713D",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Flamer",
+      "item_type": "weapon",
+      "code": "00078C60",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Hunting Rifle",
+      "item_type": "weapon",
+      "code": "00004333",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Knife",
+      "item_type": "weapon",
+      "code": "00004334",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Laser Pistol",
+      "item_type": "weapon",
+      "code": "000B4178",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Laser Rifle",
+      "item_type": "weapon",
+      "code": "00074795",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Minigun",
+      "item_type": "weapon",
+      "code": "0000433F",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Plasma Pistol",
+      "item_type": "weapon",
+      "code": "00004343",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Plasma Rifle",
+      "item_type": "weapon",
+      "code": "00004344",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Power Fist",
+      "item_type": "weapon",
+      "code": "00004347",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Repellent Stick",
+      "item_type": "weapon",
+      "code": "0002D3B7",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Ripper",
+      "item_type": "weapon",
+      "code": "00004349",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Rock-it launcher",
+      "item_type": "weapon",
+      "code": "0000434B",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Sawed-Off Shotgun",
+      "item_type": "weapon",
+      "code": "0000434C",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Sledge Hammer",
+      "item_type": "weapon",
+      "code": "00004351",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Sniper Rifle",
+      "item_type": "weapon",
+      "code": "00004353",
+      "station_level_required": 3,
+      "components_cost": 9,
+      "unlocked": false
+    },
+    {
+      "name": "Spiked Knuckels",
+      "item_type": "weapon",
+      "code": "00004354",
+      "station_level_required": 2,
+      "components_cost": 6,
+      "unlocked": false
+    },
+    {
+      "name": "Switchblade",
+      "item_type": "weapon",
+      "code": "0006407F",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    },
+    {
+      "name": "Tire Iron",
+      "item_type": "weapon",
+      "code": "00004328",
+      "station_level_required": 1,
+      "components_cost": 3,
+      "unlocked": false
+    }
+  ]
+}

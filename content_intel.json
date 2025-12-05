@@ -1,0 +1,41 @@
+{
+  "raid_intel": [
+    {
+      "id": "somber_beauty",
+      "title": "Somber Beauty Raid condition",
+      "text": "Scouts report an unusual atmospheric stillness. Visibility is high, and the wind is dead. It's beautiful, but it makes you an easy target. However, reports suggest that if you can endure the exposure for a long duration, you might find things that are usually hidden by the dust."
+    },
+    {
+      "id": "weeping_skies",
+      "title": "Weather Alert: Acid Rain",
+      "text": "Heavy storm fronts moving in. The rain burns and the mud slows you down. Most stalkers pack up and leave within 20 minutes. If you're quick, you can hit the supply caches they left behind."
+    },
+    {
+      "id": "spicy_sieverts",
+      "title": "Hazard: Radiation Spike",
+      "text": "Geiger counters are screaming in Sector 4. The background radiation is rising fast. You have 15 minutes, maybe less, before your DNA starts unravelling. Get in, grab what you can, and get out."
+    },
+    {
+      "id": "hostile_wasteland",
+      "title": "Threat Assessment: High",
+      "text": "Patrols have doubled. The local factions are on high alert. Expect resistance at every turn. Only go out if you're looking for a fight."
+    },
+    {
+      "id": "wasteland_in_need",
+      "title": "Opportunity: Aid Requests",
+      "text": "Intercepted radio chatter suggests civilians are pinned down. There are multiple distress signals. Helping them is dangerous, but usually pays well."
+    }
+  ],
+  "general_rumors": [
+    {
+      "id": "tip_01",
+      "title": "Survival Tip: The Kneecapper",
+      "text": "If you see a Deathclaw, don't aim for the head. Aim for the legs. If it can't run, it can't kill you. Well, it can, but you'll have a head start."
+    },
+    {
+      "id": "tip_02",
+      "title": "Lore: The Rusty Screw",
+      "text": "This bar used to be a mechanic's garage. That's why the drinks taste like motor oil. Or maybe that's just the bartender's secret recipe."
+    }
+  ]
+}

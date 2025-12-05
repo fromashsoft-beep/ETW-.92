@@ -1,0 +1,290 @@
+{
+    "raid_modifiers": {
+        "somber_beauty": {
+            "id": "somber_beauty",
+            "name": "Somber Beauty",
+            "town_text": "It's as beautiful as it gets out there... enjoy it.",
+            "description": "It's as beautiful as it gets out there... enjoy it.",
+            "effects": {
+                "reward": {
+                    "type": "time_threshold_bonus",
+                    "applies_to": "all",
+                    "multiplier": 1.10,
+                    "condition": {
+                        "type": "raid_time_greater_than",
+                        "minutes": 45
+                    }
+                },
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_somber_beauty"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Apply a 10% bonus to all rewards only if the tracked raid time exceeds 45 minutes."
+            }
+        },
+        "weeping_skies": {
+            "id": "weeping_skies",
+            "name": "Weeping Skies",
+            "town_text": "A nasty storm approaches, act fast.",
+            "description": "A nasty storm approaches, act fast.",
+            "effects": {
+                "reward": {
+                    "type": "time_threshold_bonus",
+                    "applies_to": "all",
+                    "multiplier": 1.10,
+                    "condition": {
+                        "type": "raid_time_less_than",
+                        "minutes": 25
+                    }
+                },
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_weeping_skies"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Apply a 10% bonus to all rewards only if the raid is completed in under 25 minutes."
+            }
+        },
+        "hostile_wasteland": {
+            "id": "hostile_wasteland",
+            "name": "Hostile Wasteland",
+            "town_text": "Lots of enemy patrols... Good luck wanderer.",
+            "description": "Lots of enemy patrols... Good luck wanderer.",
+            "effects": {
+                "reward": null,
+                "ambush": {
+                    "type": "dynamic",
+                    "frequency": "high",
+                    "initial_delay_minutes": 5,
+                    "cooldown_minutes": 5,
+                    "notes": "Ambushes can only start after the first 5 minutes and then can occur randomly with at least 5 minutes between ambush checks."
+                },
+                "extraction": null,
+                "sos_flare": null,
+                "threat": {
+                    "type": "force_max",
+                    "value": "max",
+                    "notes": "Clamp raid threat to maximum level for this raid."
+                },
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_hostile"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "All logic is fully automatable via internal raid timer, ambush system and threat value."
+            }
+        },
+        "lonely_roads": {
+            "id": "lonely_roads",
+            "name": "Lonely Roads",
+            "town_text": "It's empty out there, should be an easy out.",
+            "description": "It's empty out there, should be an easy out.",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": {
+                    "type": "range",
+                    "min": 6,
+                    "max": 8,
+                    "notes": "When generating extraction points, roll within this range instead of the normal values."
+                },
+                "sos_flare": null,
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_lonely_roads"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Purely affects extraction point generation."
+            }
+        },
+        "watching_eyes": {
+            "id": "watching_eyes",
+            "name": "Watching Eyes",
+            "town_text": "We're being watched, better not lead them back here...",
+            "description": "We're being watched, better not lead them back here...",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": {
+                    "type": "fixed",
+                    "count": 2,
+                    "notes": "Exactly 2 extraction points should be generated."
+                },
+                "sos_flare": {
+                    "type": "disabled",
+                    "notes": "SoS flare cannot be used this raid."
+                },
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_watching_eyes"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Extraction generation and SoS logic can be fully enforced by the app."
+            }
+        },
+        "spicy_sieverts": {
+            "id": "spicy_sieverts",
+            "name": "Spicy Sieverts",
+            "town_text": "It's baking out there... won't last long...",
+            "description": "It's baking out there... won't last long...",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": null,
+                "timer": {
+                    "type": "hard_fail_at",
+                    "minutes": 15,
+                    "notes": "If the raid timer passes 15 minutes, the raid is considered a failure."
+                },
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_spicy_sieverts"
+            ],
+            "constraints": {
+                "honor_system": true,
+                "notes": "The app can show/track the 15-minute limit, but the player must honor-mark the raid as failed if they exceed it."
+            }
+        },
+        "wasteland_in_need": {
+            "id": "wasteland_in_need",
+            "name": "Wasteland in Need",
+            "town_text": "Word is a lot of wastelanders are in need of aid out there.",
+            "description": "Word is a lot of wastelanders are in need of aid out there.",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": {
+                    "type": "forced_spawn",
+                    "min_count": 1,
+                    "max_count": 3,
+                    "reward_bonus_multiplier": 1.10,
+                    "notes": "Guarantee at least 1 emergency task, up to 3. Each emergency task completed grants +10% to its own rewards."
+                },
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_wasteland_in_need"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Emergency tasks outside this modifier behave normally; this only guarantees spawns and applies the bonus to those tasks' rewards."
+            }
+        },
+        "darkness_falls": {
+            "id": "darkness_falls",
+            "name": "Darkness Falls",
+            "town_text": "It's getting dark and dangerous... time to move.",
+            "description": "It's getting dark and dangerous... time to move.",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": {
+                    "type": "force_max",
+                    "value": "max",
+                    "notes": "Clamp raid threat to maximum level for this raid."
+                },
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": null
+            },
+            "tags": [
+                "raid_darkness_falls"
+            ],
+            "constraints": {
+                "honor_system": true,
+                "notes": "Player must start the raid at night (honor system). Threat forcing is handled by the app; night condition cannot be auto-verified."
+            }
+        },
+        "fortunes_bounty": {
+            "id": "fortunes_bounty",
+            "name": "Fortune's Bounty",
+            "town_text": "Fortune smiles on you... for now.",
+            "description": "Fortune smiles on you... for now.",
+            "effects": {
+                "reward": null,
+                "ambush": null,
+                "extraction": null,
+                "sos_flare": null,
+                "threat": null,
+                "timer": null,
+                "emergency_tasks": null,
+                "loot_quality": {
+                    "type": "increase_rarity",
+                    "intensity": "high",
+                    "fortune_synergy": true,
+                    "notes": "Use the existing Fortune/rarity tuning system to bias all rewards toward higher rarity tiers."
+                }
+            },
+            "tags": [
+                "raid_fortunes_bounty"
+            ],
+            "constraints": {
+                "honor_system": false,
+                "notes": "Purely handled via the app's loot/rarity curves. No player self-enforcement required."
+            }
+        }
+    },
+    "emergency_task_templates": [
+        {
+            "id": "emergency_sweep",
+            "description": "Sweep the area and keep hostiles from overrunning the route."
+        },
+        {
+            "id": "emergency_salvage",
+            "description": "Recover anything useful before the caravan moves on."
+        },
+        {
+            "id": "emergency_cover",
+            "description": "Provide overwatch while friendlies reposition."
+        },
+        {
+            "id": "emergency_radiation_check",
+            "description": "Grab quick readings and mark the worst hotspots."
+        },
+        {
+            "id": "emergency_supply_cache",
+            "description": "Secure a small supply cache before someone else does."
+        }
+    ]
+}

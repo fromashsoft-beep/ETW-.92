@@ -1,0 +1,32 @@
+{
+    "broker": {
+        "name": "The Ear",
+        "description": "A shadowy figure in the corner who seems to know more than he lets on.",
+        "cost_scrip": 1,
+        "dialogue": {
+            "intro": "Information is the only real currency out here. Caps rust, bullets miss... but information? information is forever.",
+            "buy_button": "Buy Intel",
+            "sold_out": "I'd love to take your scrip, but I've told you everything worth knowing around here.",
+            "success_prefix": "Here's the dossier. Study it closely:"
+        }
+    },
+    "innkeeper": {
+        "name": "Bartender",
+        "description": "Wiping a glass that will never be clean.",
+        "cost_scrip": 3,
+        "dialogue": {
+            "intro": "Welcome to The Salty Atom. We got beds. They ain't soft or clean, but they're safer than outside.",
+            "rest_button": "Rent Room [Advances Day]",
+            "warning": "WARNING: Sleeping advances the day cycle. Contracts may expire.",
+            "success": "You slept through the night and feel Well Rested (+25% XP next Raid)."
+        }
+    },
+    "companions": {
+        "seats": [
+            {"id": "stool_1", "state": "empty"},
+            {"id": "stool_2", "state": "empty"},
+            {"id": "booth_1", "state": "empty"},
+            {"id": "booth_2", "state": "empty"}
+        ]
+    }
+}

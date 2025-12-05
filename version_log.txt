@@ -1,0 +1,128 @@
+[2025-11-29 19:04:31] Started version: v.05 Overhaul (Modular Refactor)
+[2025-11-29 19:15:47] Started version: v.06 Overhaul (Character & UI)
+[2025-11-29 21:59:35] Started version: v.07 Baseline Restoration
+[2025-11-29 22:33:18] Started version: (v.07 Baseline Restoration & UI Polish)
+- Restored baseline features (Teleport commands, Death logic)
+- Implemented SOS Flare timer (25 min delay)
+- Overhauled Quest UI (Individual objective ticks)
+- Added 'Tasks Failed' tracking
+- Redesigned Character Info screen
+[2025-11-30 00:23:10] Started version: (v.07 Baseline Restoration & Logic Overhaul)
+- Core Engine Overhaul (Reputation, Loot, Task Gen)
+- Restored Bonus Objectives and Activity Tags
+- Refined Task Cycling (Days) logic
+- Updated Ambush timing (10s check)
+- Added SOS Timer (25m) and Raid Debug tools
+[2025-11-30 02:52:16] Started version: (v.10 Hideout Overhaul & Debug Tools)
+- Integrated Director Tools (Debug).
+- Implemented Hideout Overhaul (Crafting, Progression, Gating).
+- Updated UI for Crafting Menus and Station Requirements.
+[2025-11-30 04:32:33] Started version: (v.13 Hideout & Economy Overhaul)
+- Added Error Logging system.
+- Overhauled Hideout Crafting (Queue, Storage, Yields).
+- Rebalanced Economy (1 Scrip ~ 100 Caps).
+[2025-11-30 05:28:31] Started version: (v.14 UI Polish & Multi-Slot)
+- UI Overhaul: Hideout Split Columns & Text Wrapping.
+- Feature: Multi-Slot Crafting & Dynamic Yields.
+- Fix: Raid Button spam prevention.
+[2025-11-30 06:02:52] Started version: (v.14.01 Reward Scale & Hideout Cancel)
+- Feature: Progression-Scaled Rewards (Baseline + Multipliers).
+- Feature: Hideout Crafting Cancellation.
+- UI: Detailed Stat Multiplier breakdown.
+[2025-11-30 07:02:24] Started version: (v.14.02 Quest Cycle & Spicy Timer)
+- Feature: Quest Cycling HUD (Main/Side).
+- Feature: Spicy Sieverts Timer & Death Count.
+- Feature: Force Ambush Debug.
+[2025-11-30 22:20:11] Started version: (v.14.03 Rusty Screw Inn)
+- Feature: The Rusty Screw Inn (Intel Broker & Resting).
+- Feature: Dossier System for unlocked intel.
+- UI: Grid Alignment, Bonus Colors, and No-Popup Standardization.
+[2025-11-30 23:10:10] Started version: (v.14.04 Extraction & Economy Update)
+- Feature: Extraction Overhaul (Time-based Rewards, No Item Drops).
+- Feature: The Rusty Screw Inn (Intel, Resting, Gambling Placeholder).
+- UI: Quest Alignment, Contract Terminology, Info Screen Stats.
+[2025-12-01 01:09:23] Started version: (v.14.05 Economy Overhaul)
+- Rebranding: Town -> Rustwater Outpost, Shop -> Stop n' Shop, Inn -> The Salty Atom, Hideout -> Super Duper Shelter.
+- Economy: Massive price reduction (Scrip deflation).
+- Feature: Contract Board Expansion upgrade.
+[2025-12-01 01:34:32] Started version: (v.14.06 Side Quest & Feedback Polish)
+- Rebranding: Rustwater Outpost, Stop n' Shop, The Salty Atom, Super Duper Shelter.
+- Content: Added 'Secure the Safehouse' side quest (Clear Super Duper Mart).
+- UI: Added top-level feedback to Shop (Purchased / Not enough scrip).
+- UI: Hideout unlock logic now respects quest completion instead of scrip fee.
+[2025-12-01 01:57:29] Started version: (v.14.07 Fence System Implementation)
+- Feature: Fence/Black Market System Implementation.
+[2025-12-01 02:45:08] Started version: (v.14.09 Companion Buff System & Live Stats)
+- Feature: Companion Buff System (Stat Tracking & Temporary Buffs).
+[2025-12-01 02:54:43] Started version: (v.14.10 Live Stats Fix)
+- Feature: Companion Buff System (Stat Tracking & Temporary Buffs).
+[2025-12-01 03:06:14] Started version: (v.14.11 Character Picker)
+- Feature: Character Picker (Manual Selection).
+[2025-12-01 03:20:48] Started version: (v.14.12 Command Sequencing)
+- Improvement: Sequenced Console Commands (Depart/Return delays).
+[2025-12-01 13:40:48] Started version: (v.14.14 Companion System & Polish)
+- Feature: Companion System Integration.
+- Feature: Insurance & Homepoint System.
+[2025-12-01 15:43:55] Started version: v.14.16 (UX Polish & Finalized Modularity)
+- Feature: Modular task extraction (etw_tasks.py).
+- Fix: Companion quest completion in Bar.
+- Feature: Debug moved to Town + Scrip debug.
+- Feature: Raid quest pagination (3 quests/page).
+- Feature: Standardized Hideout navigation.
+- UX: Improved Hideout companion 'TALK' feedback.
+[2025-12-01 17:10:37] Started version: v.14.17 (Crash Fix & Flow Enforcement)
+- Feature: Modular task extraction (etw_tasks.py).
+- Fix: Companion quest completion in Bar.
+- Feature: Debug moved to Town + Scrip debug.
+- Feature: Raid quest pagination (3 quests/page).
+- Feature: Standardized Hideout navigation.
+- UX: Improved Hideout companion 'TALK' feedback.
+- FIX: CRASH on Insurance Quest due to modularity issue.
+- FLOW: Enforced completion of location quests (Shop/Insurance/Bar/Hideout) at source UI.
+[2025-12-01 23:25:43] Started version: v.14.18 (UI Polish & Systems Update)
+[2025-12-02 00:48:18.917616] Started version: v.14.19 (Bridge Stabilization & Keybinds)
+[2025-12-02 01:18:47.526124] Started version: v.14.20 (Startup Fixes & Global Input)
+[2025-12-02 02:29:08.756787] Started version: v.14.21 (Bugfixes & Stability)
+[2025-12-02 13:05:54.885501] Started version: v.14.22 (Refactored Core)
+[2025-12-02 20:48:23.916543] Started version: v.14.23 (Core Logic Restored)
+[2025-12-02 22:00:55.197693] Started version: v.14.25 (Ambush Fix + Bridge Sync)
+[2025-12-02 23:40:16.998046] Started version: v.14.27 (System Stability & I/O Hardening)
+[2025-12-03 00:34:28.121752] Started version: v.14.28 (Logic Refactor & Inventory Manager)
+[2025-12-03 02:01:19.266024] Started version: v.14.29 (Release Candidate)
+[2025-12-03 02:06:56.023876] Started version: v.14.30 (Hotfix: Import Path)
+[2025-12-03 02:41:34.965593] Started version: v.14.31 (Hotfix: Import Path Corrected)
+[2025-12-03 02:44:13.709610] Started version: v.14.33 (Refactor: Timing Sync)
+[2025-12-03 03:24:31.997713] Started version: v.14.34 (JSON Source of Truth)
+[2025-12-03 09:15:40.469004] Started version: v.14.35 (Logic Decoupling)
+[2025-12-03 10:58:02.946571] Started version: v.14.36 (Modularization Complete)
+[2025-12-03 11:04:53.705428] Started version: v.14.37 (Fixes)
+[2025-12-03 21:14:09.210141] Started version: v.14.38 (Error Tracking)
+[2025-12-03 21:18:03.052820] Started version: v.14.38 (Error Tracking)
+[2025-12-03 21:19:59.547627] Started version: v.14.38 (Error Tracking)
+[2025-12-03 21:45:47.800788] Started version: v.14.42 (Refactored)
+[2025-12-03 21:55:18.985491] Started version: v.14.42 (Refactored)
+[2025-12-03 22:01:48.287270] Started version: v.14.42 (Refactored)
+[2025-12-03 22:14:29.214412] Started version: v.14.42 (Refactored)
+[2025-12-03 22:28:39.795161] Started version: v.14.45 (Ambush Timing Fix)
+[2025-12-03 23:09:06.807794] Started version: v.14.49 (Resume & Buff Check)
+[2025-12-03 23:09:35.422107] Started version: v.14.49 (Resume & Buff Check)
+[2025-12-03 23:09:52.000202] Started version: v.14.49 (Resume & Buff Check)
+[2025-12-03 23:14:35.797973] Started version: v.14.50 (Splash Logic Fix)
+[2025-12-03 23:50:02.241575] Started version: v.14.50 (Splash Logic Fix)
+[2025-12-03 23:50:19.121803] Started version: v.14.50 (Splash Logic Fix)
+[2025-12-04 00:52:00.042158] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 01:36:14.688581] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 01:50:51.818793] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:11:47.628935] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:16:10.441723] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:17:00.701038] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:19:51.649974] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:24:05.088964] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:45:23.000410] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:52:52.592855] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:56:08.575773] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 02:59:21.820393] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 03:12:46.871307] Started version: v.14.51 (Sync & Safety Refactor)
+[2025-12-04 22:55:20.749558] Started version: v.14.52 (Non-Blocking I/O)
+[2025-12-04 22:55:45.774724] Started version: v.14.52 (Non-Blocking I/O)
+[2025-12-04 22:59:06.575433] Started version: v.14.52 (Non-Blocking I/O)

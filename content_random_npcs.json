@@ -1,0 +1,52 @@
+{
+    "first_names": [
+        "Jack", "Buck", "Sticks", "Red", "Doc", "Smiling", "Crazy", "Old Man", "Young", "Fast", 
+        "Lucky", "Unlucky", "Grim", "Dusty", "Rusty", "Shakes", "Fixer", "Scrapper", "Rat", "Mole",
+        "Jenny", "Ruby", "Scarlet", "Mama", "Sister", "Blue", "Violet", "Piper", "Sunny", "Rain",
+        "Crank", "Lugnut", "Gears", "Sprocket", "Piston", "Wire", "Fuse", "Sparky", "Buzz", "Click"
+    ],
+    "last_names": [
+        "Joe", "Bill", "Sam", "Tom", "Ben", "Dan", "Ray", "Lou", "Mick", "Nic",
+        "Jones", "Smith", "Brown", "Black", "White", "Green", "Gray", "Cole", "Ford", "Lee",
+        "the Drunk", "the Merc", "the Cheat", "the Liar", "the Thief", "the Cook", "the Doc", "the Fixer",
+        "Walker", "Runner", "Hunter", "Gatherer", "Scavver", "Trader", "Guard", "Watcher", "Killer", "Sniper"
+    ],
+    "descriptors": [
+        "Wasteland Drunk", "Caravan Guard", "Tired Mercenary", "Nervous Scavenger", "Shady Dealer",
+        "Local Addict", "Retired Raider", "Lost Tourist", "Water Merchant", "Brahmin Herder",
+        "Escaped Slave", "Vault Exile", "Ghoul Sympathizer", "Brotherhood Outcast", "Enclave Deserter",
+        "Regulator Hopeful", "Talon Company Reject", "Tunnel Snake", "Atom Devotee", "Railroad Agent"
+    ],
+    "dialogue": [
+        "Got any spare caps? No? Then get out of my face.",
+        "I saw a Deathclaw yesterday. Swear to Atom, it was wearing a hat.",
+        "Don't drink the water out by Old Olney. Glows in the dark.",
+        "You look like you've seen better days. Or maybe just cleaner ones.",
+        "War... war never changes. But the price of whiskey sure does.",
+        "I used to be an adventurer like you, then I took a laser to the knee.",
+        "Patrolling the Mojave almost makes you wish for a nuclear winter. Wait, wrong wasteland.",
+        "Tunnel Snakes rule! Or they did, back in the vault.",
+        "Keep your hands where I can see them. I've been robbed twice today.",
+        "You buying? I'm selling. Just kidding, I'm broke.",
+        "The Brotherhood? Bunch of tin cans playing soldier if you ask me.",
+        "Enclave radio has better music, but Three Dog has better news.",
+        "I heard there's a city of kids somewhere. Little lamplight or something.",
+        "If you see a Ghoul, shoot first. If it talks, apologize later.",
+        "My Brahmin ran off. If you see a two-headed cow, tell her I miss her.",
+        "This bar is the only thing keeping me sane. And the Jet. Mostly the Jet.",
+        "I found a pre-war book once. Ate it. Tasted like dust.",
+        "You ever wonder what the moon looks like up close? Probably full of commies.",
+        "Don't go north. Slavers everywhere. Unless you're into that sort of thing.",
+        "I'm just here for the noodles. They got noodles, right?",
+        "Hey smoothskin, got a light?",
+        "Watch your step on the way out. I think I dropped a mine somewhere.",
+        "The water purifier project? Sounds like a pipe dream.",
+        "I'd kill for a Nuka-Cola Quantum. Literally.",
+        "You looking for info? Talk to the Ear in the corner. Not me.",
+        "I saw a UFO crash last week. Green blood everywhere.",
+        "Gary? Gary!",
+        "Don't feed the Yao Guai. That's how I lost my hand.",
+        "I'm saving up for a trip to Rivet City. Hear they got a real doctor there.",
+        "Life's a bitch, then you die. Then you get eaten by a radroach."
+    ]
+}

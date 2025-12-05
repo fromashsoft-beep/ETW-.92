@@ -1,0 +1,17 @@
+{
+    "task_icons": {"slay": "⚔️", "retrieve": "📦", "plant": "📍", "clear": "💀"},
+    "icon_colors": {"slay": "#FF4444", "retrieve": "#FFFF00", "plant": "#00BFFF", "clear": "#FFFFFF"},
+    "task_types": ["slay", "retrieve", "plant", "clear"],
+    "task_activity_tags": {
+        "slay":    ["combat", "elimination", "hostile_presence"],
+        "retrieve":["scavenge", "supply_run", "salvage"],
+        "plant":   ["sabotage", "setup", "covert"],
+        "clear":   ["combat", "area_control", "sweep"]
+    },
+    "task_title_by_type": {
+        "slay":    "Elimination Contract",
+        "retrieve":"Supply Run",
+        "plant":   "Sabotage Operation",
+        "clear":   "Sweep Operation"
+    }
+}

@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "A Way Out",
+    "flavor_text": "I'm getting the fuck out of this hell hole, one way or another. Rumor is someone at Tenpenny Tower knows the location of a working Vertibird. I should travel there immediately.",
+    "objectives": [
+      "Travel to Tenpenny Tower"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Way Out Part 2",
+    "flavor_text": "Oh yeah sure, seen the bird with my own eyes. I may even be willing to share the location with ya, for a price.",
+    "objectives": [
+      "Pay 500 caps for information"
+    ],
+    "completion": {
+      "type": "ahk",
+      "command": "player.removeitem f 500"
+    }
+  },
+  {
+    "id": 3,
+    "title": "A Way Out Part 3",
+    "flavor_text": "Hey thanks buddy! Oh right the location. You know those old military compounds? There's one north of here, saw several of them birds on the property, surely one of 'em flies! Heard those Talon bastards recently moved in though, must be after the same thing you are!",
+    "objectives": [
+      "Clear Fort Bannister"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Fixer Upper",
+    "flavor_text": "I've located a Vertibird, but I'm not sure it can be repaired. I remember hearing of an old aviation mechanic in Rivet City that may be able to help, but I'll probably have to convince him first.",
+    "objectives": [
+      "Travel to Rivet City"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fixer Upper Part 2",
+    "flavor_text": "Yer outta yer fuckin' mind kid! But I sure wouldn't mind getting my hands busy again. Tell you what, I'm in, but I'm gonna need to read up on the thing before we head out there. Gonna need some snacks too, got a bit of a sweet tooth.",
+    "objectives": [
+      "Retrieve 5 Pre-War Books",
+      "Retrieve 5 Fancy Lad Snack Cakes",
+      "Retrieve Vertibird repair manual",
+      "Clear The Museum of Technology"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "On Broken Wings",
+    "flavor_text": "Took a look at yer Vertibird, she's in no flying shape, but luckily making the ladies fly is my specialty. So, are we really doin' this? Well then we're gonna need a lot of supplies first, here's a list. Good luck kid.",
+    "objectives": [
+      "Retrieve 10 fission batteries to power the Vertibird",
+      "Retrieve 10 motorcycle gas tanks",
+      "Retrieve 10 Nuka-Cola Quantum to synthesize fuel for the Vertibird"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "On Broken Wings Part 2",
+    "flavor_text": "Hot damn you did it! While I get my egghead buddy to synthesize the fuel for us, I need you to get me some specialized tools.",
+    "objectives": [
+      "Retrieve the specialized tools",
+      "Clear RobCo Facility",
+      "Clear Robot Repair Center",
+      "Clear Takoma Industrial"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Like Riding a Bike",
+    "flavor_text": "Great work kid! While I get started on the repairs I suggest you find yerself a pilot. Be a shame if you crashed this thing after all my hard work. What?! I can't pilot that damn bucket! Heard there's an old ghoul in Underworld that flew these things pre-war though, I'd try there.",
+    "objectives": [
+      "Travel to Underworld"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Like Riding a Bike Part 2",
+    "flavor_text": "You WHAT?! Listen smoothskin.. let's say I believe you, you'd still be out of your fucking mind! Luckily for you, so am I and I'd love to take to the skies one last time. Maybe even settle down somewhere a little less hostile. I'll need a new flight suit, some local flight charts and uh, something else, for sentimental reasons.",
+    "objectives": [
+      "Retrieve flight charts (Clear Wheaton Armory)",
+      "Retrieve flight suit (Clear National Guard Depot)",
+      "Retrieve the Giant Teddybear from Satcom Array NN-03D"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Systems Check",
+    "flavor_text": "Well I'll be damned smoothskin! Thought you were just high or something, didn't expect to actually see you again. Okay, now I need to see this thing, get a feel for the stick ya know?",
+    "objectives": [
+      "Return to Fort Bannister"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Systems Check Part 2",
+    "flavor_text": "Fuck! The guidance system was damaged, I'm good but not that good. So unless you wanna end up on the side of a mountain, we're gonna need a new one.",
+    "objectives": [
+      "Return to Rivet City to talk to the Mechanic"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "A Guided Hand",
+    "flavor_text": "What are you still doing here kid? Guidance system? I dunno the first thing 'bout all that, but my egghead buddy here might. You again? Sigh.. I'm just trying to retire alone in peace, but you do strike me as one tough son of a bitch, so I'll tell you what. You kill those monsters in Paradise Falls and I'll help you out, but I want every last fucking one of them dead.",
+    "objectives": [
+      "Purge Paradise Falls"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "A Guided Hand Part 2",
+    "flavor_text": "You.. you really did it?! I can't believe it, thought about this day for years. They say revenge doesn't make the pain go away, but it sure as hell is a start. Now, let's start work on that guidance system. It's a complicated piece of equipment, so I'll need to salvage lots of tech to get it functional.",
+    "objectives": [
+      "Retrieve 10 Sensor Modules",
+      "Retrieve 10 Conductors",
+      "Retrieve 5 Energy Rifles",
+      "Retrieve 10 Wonderglue",
+      "Retrieve 1 mini nuke"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "A Guided Hand Part 3",
+    "flavor_text": "This is gonna take some time and you're gonna need to upload fresh mapping data once I've finished. Why don't you start gathering the data from the local array stations while I get to work.",
+    "objectives": [
+      "Gather mapping data",
+      "Clear SatCom Array NW-05A",
+      "Clear SatCom Array NW-07C"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Safety First",
+    "flavor_text": "Here you go, some of my finest work if I say so myself. Took the liberty to include coordinates to some promising lands, heard the West Coast has been prospering lately. Listen, before you go I think you should disable the local power stations in case any military radar is still functional. God speed Wanderer.",
+    "objectives": [
+      "Disable the power",
+      "Clear MDPL-05 Power Station",
+      "Clear MDPL-13 Power Station",
+      "Clear MDPL-16 Power Station",
+      "Clear MDPL-21 Power Station",
+      "Clear MDPL Mass Relay Station"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Buried Past",
+    "flavor_text": "Upon returning to Underworld I discovered my Pilot has gone missing. Questioning the locals reveals he was taken by unknown men. I'll have to follow up on some leads and find him immediately.",
+    "objectives": [
+      "Clear Dunwich Building",
+      "Clear Old Olney"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Bat Out of Hell",
+    "flavor_text": "So here we are. With my Pilot safe and guidance system in hand, it's time to leave. Looks like some bastards caught word of my functional Vertibird. No matter, one way or another, this is the end.",
+    "objectives": [
+      "Return to Fort Bannister",
+      "Escape"
+    ]
+  }
+]

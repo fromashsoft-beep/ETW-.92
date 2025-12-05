@@ -1,0 +1,66 @@
+{
+    "intro_sequence": [
+        "Welcome to Escape the Wasteland.",
+        "",
+        "This companion app simulates a Tarkov-like extraction loop",
+        "within the world of Fallout 3.",
+        "",
+        "You will embark on timed Raids to scavenge supplies,",
+        "complete contracts, and manage your Hideout economy.",
+        "",
+        "Death in a Raid has consequences.",
+        "You will lose your loot.",
+        "",
+        "Prepare accordingly."
+    ],
+    "npcs": {
+        "innkeeper": {
+            "name": "Innkeeper",
+            "title": "Bartender",
+            "description": "Runs the Salty Atom. Knows everyone, sees everything.",
+            "dialogue": {
+                "greeting": "Welcome to the Salty Atom. Keep your weapons holstered.",
+                "intro": "Need a room? Or just here to drink away the radiation?",
+                "rent_room": "Room's yours. Try not to die in your sleep.",
+                "leave": "Watch your back out there."
+            }
+        },
+        "broker": {
+            "name": "The Ear",
+            "title": "Info Broker",
+            "description": "Sells raid intelligence and rumors.",
+            "dialogue": {
+                "greeting": "Knowledge is the only currency that matters.",
+                "intro": "I hear whispers from the wastes. For a price, I can share them.",
+                "sold_out": "The wires are quiet today. Check back later.",
+                "purchase": "A wise investment. Here is the dossier.",
+                "leave": "Don't get caught."
+            }
+        },
+        "fence": {
+            "name": "The Fence",
+            "title": "Black Market Dealer",
+            "description": "Buys what others won't. No questions asked.",
+            "dialogue": {
+                "greeting": "Keep your voice down. You verify the goods?",
+                "intro": "I buy the hot stuff. Weapons, tech, chemicals. If you want to sell, show me. If you want to buy, be quick.",
+                "refresh": "Fine. Let's see what else I have in the back.",
+                "leave": "We never spoke."
+            }
+        },
+        "shopkeeper": {
+            "name": "Shopkeeper",
+            "title": "Trader",
+            "description": "General goods and essential supplies.",
+            "dialogue": {
+                "greeting": "Got caps? I got goods. Simple as that.",
+                "intro": "What do you need? Ammo, stims, or just a friendly face?",
+                "insurance_start": "Do you offer any guarantees on gear?",
+                "insurance_intro": "I can set up a recovery network for your gear, but I need you to clear a supply route first. It's dangerous work, but the peace of mind is worth it.",
+                "insurance_complete": "I've cleared the route. (Complete Quest)",
+                "insurance_unlocked": "The network is live. For a fee, I can ensure your gear finds its way back to you if things go south.",
+                "leave": "Let me see your wares."
+            }
+        }
+    }
+}

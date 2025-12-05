@@ -1,0 +1,215 @@
+{
+    "stations": [
+        {
+            "id": "workbench",
+            "name": "Workbench",
+            "type": "active_crafting",
+            "description": "Basic crafting bench. Essential for all operations.",
+            "levels": [
+                { "level": 1, "slots": 1, "production_rate": 0, "storage_cap": 0, "cost_scrip": 5, "base_yield_mult": 1.0, "recipes": [] },
+                { "level": 2, "slots": 1, "production_rate": 0, "storage_cap": 0, "cost_scrip": 2, "base_yield_mult": 1.25, "recipes": [] },
+                { "level": 3, "slots": 2, "production_rate": 0, "storage_cap": 0, "cost_scrip": 3, "base_yield_mult": 1.5, "recipes": [] },
+                { "level": 4, "slots": 2, "production_rate": 0, "storage_cap": 0, "cost_scrip": 4, "base_yield_mult": 1.75, "recipes": [] },
+                { "level": 5, "slots": 3, "production_rate": 0, "storage_cap": 0, "cost_scrip": 6, "base_yield_mult": 2.0, "recipes": [] }
+            ],
+            "requirement": null
+        },
+        {
+            "id": "printing_press",
+            "name": "Printing Press",
+            "type": "passive_production",
+            "description": "Produces Scrip currency.",
+            "levels": [
+                { "level": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 10, "output": { "type": "scrip", "qty": 1 } },
+                { "level": 2, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "output": { "type": "scrip", "qty": 2 } },
+                { "level": 3, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "output": { "type": "scrip", "qty": 3 } },
+                { "level": 4, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "output": { "type": "scrip", "qty": 4 } },
+                { "level": 5, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "output": { "type": "scrip", "qty": 5 } }
+            ],
+            "requirement": { "station_id": "workbench", "min_level": 1 }
+        },
+        {
+            "id": "kitchen",
+            "name": "Kitchen",
+            "type": "active_crafting",
+            "description": "Prepares food and water.",
+            "levels": [
+                { 
+                    "level": 1, "slots": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 10, "base_yield_mult": 1.0,
+                    "recipes": [
+                        {"name": "Squirrel on a Stick", "code": "00031949", "qty": 1},
+                        {"name": "Dirty Water", "code": "000151A4", "qty": 1}
+                    ]
+                },
+                { 
+                    "level": 2, "slots": 1, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "base_yield_mult": 1.25,
+                    "recipes": [
+                        {"name": "Softshell Mirelurk Meat", "code": "000552CE", "qty": 1},
+                        {"name": "Squirrel Stew", "code": "0003194A", "qty": 1}
+                    ] 
+                },
+                { 
+                    "level": 3, "slots": 2, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "base_yield_mult": 1.5,
+                    "recipes": [
+                        {"name": "Mirelurk Meat", "code": "0003404E", "qty": 1},
+                        {"name": "Salisbury Steak", "code": "000293A9", "qty": 1}
+                    ]
+                },
+                { 
+                    "level": 4, "slots": 2, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "base_yield_mult": 1.75,
+                    "recipes": [
+                        {"name": "Purified Water", "code": "000151A3", "qty": 1}
+                    ] 
+                },
+                { "level": 5, "slots": 3, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "base_yield_mult": 2.0, "recipes": [] }
+            ],
+            "requirement": { "station_id": "printing_press", "min_level": 1 }
+        },
+        {
+            "id": "ammo_press",
+            "name": "Ammo Press",
+            "type": "active_crafting",
+            "description": "Manufactures ammunition.",
+            "levels": [
+                { 
+                    "level": 1, "slots": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 15, "base_yield_mult": 1.0,
+                    "recipes": [
+                        {"name": "10mm Round", "code": "00004241", "qty": 20},
+                        {"name": ".32 Caliber Round", "code": "000207F7", "qty": 20}
+                    ]
+                },
+                { 
+                    "level": 2, "slots": 1, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "base_yield_mult": 1.25,
+                    "recipes": [
+                        {"name": "5.56mm Round", "code": "00004240", "qty": 20}
+                    ]
+                },
+                { 
+                    "level": 3, "slots": 2, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "base_yield_mult": 1.5,
+                    "recipes": [
+                        {"name": ".308 Caliber Round", "code": "0006B53C", "qty": 15},
+                        {"name": ".44 Round Magnum", "code": "0002937E", "qty": 10},
+                        {"name": "Shotgun Shell", "code": "00028EEA", "qty": 15}
+                    ]
+                },
+                { 
+                    "level": 4, "slots": 2, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "base_yield_mult": 1.75,
+                    "recipes": [
+                        {"name": "Microfusion Cell", "code": "00004485", "qty": 20},
+                        {"name": "Energy Cell", "code": "00020772", "qty": 20}
+                    ]
+                },
+                { "level": 5, "slots": 3, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "base_yield_mult": 2.0, "recipes": [] }
+            ],
+            "requirement": { "station_id": "kitchen", "min_level": 1 }
+        },
+        {
+            "id": "chem_lab",
+            "name": "Chem Lab",
+            "type": "active_crafting",
+            "description": "Synthesizes medical supplies.",
+            "levels": [
+                { 
+                    "level": 1, "slots": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 15, "base_yield_mult": 1.0,
+                    "recipes": [
+                        {"name": "RadAway", "code": "00015167", "qty": 1},
+                        {"name": "Rad-X", "code": "00015168", "qty": 1}
+                    ]
+                },
+                { 
+                    "level": 2, "slots": 1, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "base_yield_mult": 1.25,
+                    "recipes": [
+                        {"name": "Stimpak", "code": "00015169", "qty": 1},
+                        {"name": "Mentats", "code": "00015165", "qty": 1}
+                    ]
+                },
+                { 
+                    "level": 3, "slots": 2, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "base_yield_mult": 1.5,
+                    "recipes": [
+                        {"name": "Buffout", "code": "00015163", "qty": 1},
+                        {"name": "Jet", "code": "00015164", "qty": 1}
+                    ]
+                },
+                { 
+                    "level": 4, "slots": 2, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "base_yield_mult": 1.75,
+                    "recipes": [
+                        {"name": "Med-X", "code": "00050F8F", "qty": 1},
+                        {"name": "Psycho", "code": "00015166", "qty": 1}
+                    ]
+                },
+                { "level": 5, "slots": 3, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "base_yield_mult": 2.0, "recipes": [] }
+            ],
+            "requirement": { "station_id": "ammo_press", "min_level": 1 }
+        },
+        {
+            "id": "supply_box",
+            "name": "Supply Box",
+            "type": "passive_production",
+            "description": "Passively collects random useful loot.",
+            "levels": [
+                { "level": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 20, "output": { "type": "random_loot", "count": 1 } },
+                { "level": 2, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "output": { "type": "random_loot", "count": 2 } },
+                { "level": 3, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "output": { "type": "random_loot", "count": 3 } },
+                { "level": 4, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "output": { "type": "random_loot", "count": 4 } },
+                { "level": 5, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "output": { "type": "random_loot", "count": 5 } }
+            ],
+            "requirement": { "station_id": "chem_lab", "min_level": 1 }
+        },
+        {
+            "id": "bottle_cap_press",
+            "name": "Bottle Cap Press",
+            "type": "passive_production",
+            "description": "Manufactures Caps.",
+            "levels": [
+                { "level": 1, "production_rate": 60, "storage_cap": 1, "cost_scrip": 20, "output": { "type": "caps", "qty": 100 } },
+                { "level": 2, "production_rate": 50, "storage_cap": 1, "cost_scrip": 2, "output": { "type": "caps", "qty": 250 } },
+                { "level": 3, "production_rate": 45, "storage_cap": 2, "cost_scrip": 3, "output": { "type": "caps", "qty": 500 } },
+                { "level": 4, "production_rate": 40, "storage_cap": 2, "cost_scrip": 4, "output": { "type": "caps", "qty": 800 } },
+                { "level": 5, "production_rate": 30, "storage_cap": 3, "cost_scrip": 6, "output": { "type": "caps", "qty": 1500 } }
+            ],
+            "requirement": { "station_id": "supply_box", "min_level": 1 }
+        },
+        {
+            "id": "lounge",
+            "name": "Lounge",
+            "type": "passive_buff",
+            "description": "A relaxing area that boosts XP gain.",
+            "levels": [
+                { "level": 1, "cost_scrip": 25, "buff": { "type": "xp_mult", "value": 0.02 } },
+                { "level": 2, "cost_scrip": 2, "buff": { "type": "xp_mult", "value": 0.04 } },
+                { "level": 3, "cost_scrip": 3, "buff": { "type": "xp_mult", "value": 0.06 } },
+                { "level": 4, "cost_scrip": 4, "buff": { "type": "xp_mult", "value": 0.08 } },
+                { "level": 5, "cost_scrip": 6, "buff": { "type": "xp_mult", "value": 0.10 } }
+            ],
+            "requirement": { "station_id": "bottle_cap_press", "min_level": 1 }
+        },
+        {
+            "id": "bobblehead_collection",
+            "name": "Bobblehead Collection",
+            "type": "passive_buff",
+            "description": "Display stand that inspires greater Caps gain.",
+            "levels": [
+                { "level": 1, "cost_scrip": 20, "buff": { "type": "caps_mult", "value": 0.02 } },
+                { "level": 2, "cost_scrip": 2, "buff": { "type": "caps_mult", "value": 0.04 } },
+                { "level": 3, "cost_scrip": 3, "buff": { "type": "caps_mult", "value": 0.06 } },
+                { "level": 4, "cost_scrip": 4, "buff": { "type": "caps_mult", "value": 0.08 } },
+                { "level": 5, "cost_scrip": 6, "buff": { "type": "caps_mult", "value": 0.10 } }
+            ],
+            "requirement": { "station_id": "lounge", "min_level": 1 }
+        },
+        {
+            "id": "tree_of_fortune",
+            "name": "Tree of Fortune",
+            "type": "passive_buff",
+            "description": "Increases fortune.",
+            "levels": [
+                { "level": 1, "cost_scrip": 20, "buff": { "type": "fortune_flat", "value": 0.5 } },
+                { "level": 2, "cost_scrip": 2, "buff": { "type": "fortune_flat", "value": 1 } },
+                { "level": 3, "cost_scrip": 3, "buff": { "type": "fortune_flat", "value": 1.5 } },
+                { "level": 4, "cost_scrip": 4, "buff": { "type": "fortune_flat", "value": 2 } },
+                { "level": 5, "cost_scrip": 6, "buff": { "type": "fortune_flat", "value": 3 } }
+            ],
+            "requirement": { "station_id": "bobblehead_collection", "min_level": 1 }
+        }
+    ]
+}
